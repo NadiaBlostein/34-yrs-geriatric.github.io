@@ -5,7 +5,7 @@ This public repository contains all the material for publishing the qMRLab websi
 ## For content contributors
 
 
-### Frontpage: _includes/qmrlab-top.html
+### Frontpage: _includes/top.html
 
 The carousel that appears at the top of the page.
 
