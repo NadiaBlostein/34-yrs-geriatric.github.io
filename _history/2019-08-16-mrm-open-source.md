@@ -47,7 +47,7 @@ The broad questions that I was interested in were the following:
 </p>
 
 <p>
-<center><img src="https://igor-and-lidijas-russia.github.io/assets/images/mrm_1.png"></center>
+<center><img src="https://igor-and-lidijas-russia.github.io/test2.io/assets/images/mrm_1.png"></center>
 </p>
 
 <p>
@@ -59,7 +59,7 @@ By a wide margin, 81% of those papers used (at least in part) MATLAB, whereas th
 </p>
 
 <p>
-<center><img src="https://igor-and-lidijas-russia.github.io/assets/images/mrm_2.png"></center>
+<center><img src="https://igor-and-lidijas-russia.github.io/test2.io/assets/images/mrm_2.png"></center>
 </p>
 
 <p>
@@ -75,7 +75,7 @@ Lastly, I quickly explored all the code websites/repositories and tried to estim
 </p>
 
 <p>
-<center><img src="https://igor-and-lidijas-russia.github.io/assets/images/mrm_3.png"></center>
+<center><img src="https://igor-and-lidijas-russia.github.io/test2.io/assets/images/mrm_3.png"></center>
 </p>
 
 <p>
