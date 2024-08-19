@@ -39,7 +39,7 @@ module Jekyll
 
       def generate(site)
         @site = site
-        @posts = site.posts
+        @posts = site.history
         @archives = []
 
         @site.config['jekyll-archives'] = @config
