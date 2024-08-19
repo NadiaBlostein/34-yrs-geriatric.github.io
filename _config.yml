@@ -1,24 +1,13 @@
 # Site
-name: "qMRLab"
-description: "Quantitative MRI under one umbrella"
-meta_description: "qMRLab - Quantitative MRI under one umbrella"
+name: "Igor & Lidija's Russia"
+description: "Ongoing seminar series on my grandparents' life's work and love for poetry."
+meta_description: "Igor & Lidija's Russia"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/icon.png'
-baseurl: 'https://qmrlab.org'
-google_analytics: 'UA-116897577-1'
-disqus: 'qmrlab'
+baseurl: 'https://igor-and-lidijas-russia.github.io/test2.io'
 
 # Authors
 authors:
-  Mathieu:
-    name: Mathieu Boudreau
-    display_name: Mathieu Boudreau
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: emb6150@gmail.com
-    git_name: mathieuboudreau
-    web: none
-    twitter: https://twitter.com/_mattboud
-    description: "Author"
   Agah:
     name: Agah Karakuzu
     display_name: Agah Karakuzu
@@ -27,23 +16,6 @@ authors:
     git_name: agahkarakuzu
     web: http://agahkarakuzu.github.io
     twitter: https://twitter.com/agahkarakuzu
-    description: "Author"
-  Tommy:
-    name: Tommy Boshkovski
-    display_name: Tommy Boshkovski
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: boshkovski.tommy@gmail.com
-    git_name: TommyBoshkovski
-    web: https://tommyboshkovski.wixsite.com/index
-    twitter: https://twitter.com/TommyBoshkovski
-    description: "Author"
-  Juan:
-    name: Juan Velázquez-Reyes
-    display_name: Juan Velázquez-Reyes
-    gravatar: fcf1e8d3a2717cf25e8ff0c2bd99b9a5
-    email: velazquezrj2012@licifug.ugto.mx
-    git_name: jvelazquez-reyes
-    twitter: https://twitter.com/juan_velrey
     description: "Author"
   Nadia:
     name: Nadia Blostein
