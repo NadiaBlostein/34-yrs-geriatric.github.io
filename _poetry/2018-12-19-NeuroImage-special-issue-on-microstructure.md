@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "NeuroImage special issue on microstructure"
-author: Tommy
 categories: [ jekyll ]
 image: /assets/images/special_issue.png
 excerpt:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Quantitative magnetization transfer using spoiled gradient echo"
-author: Juan
 categories: [ jekyll ]
 image: /assets/images/qmt_temp.png
 thumbnail: /assets/images/qmt_temp.png

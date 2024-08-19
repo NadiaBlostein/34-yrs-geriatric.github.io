@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "The Double Helix and MRI Part 2: qMRI-BIDS"
-author: Nadia
 image: /assets/images/DNA_part_2_00.png
 excerpt: "The analogy between genetics and MRI will continue on a metaphorical level as we dive into our cellular machinery and qMRI-BIDS (Karakuzu et al. 2022)."
 featured: true

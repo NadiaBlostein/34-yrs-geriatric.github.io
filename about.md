@@ -58,7 +58,6 @@ YAML Post Example:
 ---
 layout: post
 title:  "We all wait for summer"
-author: john
 categories: [ Jekyll, tutorial ]
 image: assets/images/5.jpg
 featured: true

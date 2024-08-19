@@ -81,7 +81,6 @@ All `.md` posts must start with the following snippet:
 ---
 layout: post
 title:  "The title of the post"
-author: Author's_Nickname
 categories: [ jekyll ]
 image: assets/images/image_name.png
 featured: false

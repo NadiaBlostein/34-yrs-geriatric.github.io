@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "qMRLab in a Jupyter Notebook: A tutorial for Win10 users"
-author: Agah
 categories: [ jekyll ]
 image: /assets/images/tut1.png
 feature-image: assets/images/tut1.png
