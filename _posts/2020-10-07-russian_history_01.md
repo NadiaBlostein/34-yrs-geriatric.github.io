@@ -10,15 +10,12 @@ hidden: false
 
 <div style="text-align: justify"> 
 <p>
-
-## TLDR
-
 We began around 8 000 years ago in the Indo-European Homeland and ended in 988, when Vladimir the Great adopted Orthodox Christianity. 
-
-## Lecture Transcript
-
-## References.
-* Do we have any refs?
-
-<\div>
 </p>
+<p>
+Lecture Transcript
+</p>
+<p>
+References. Do we have any refs?
+</p>
+<\div>
