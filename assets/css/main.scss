@@ -17,25 +17,25 @@ $boxSpacing: 23px;
 $gridSize: 200px;
 $cornerRadius: $gridSize/2.1;
 
-body {
-  margin: $boxSpacing;
-  font-family: "Trebuchet MS", sans-serif;
-  font-size: 15.5px;
-}
+// body {
+//   margin: $boxSpacing;
+//   font-family: "Trebuchet MS", sans-serif;
+//   font-size: 15.5px;
+// }
 
 * {
   box-sizing: border-box;
 }
 
-.container {
-  width: 100%;
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax($gridSize, $gridSize));
-  grid-auto-rows: $gridSize;
-  grid-auto-flow: row dense;
-  grid-gap: $boxSpacing;
-  justify-content: center;
-}
+// .container {
+//   width: 100%;
+//   display: grid;
+//   grid-template-columns: repeat(auto-fit, minmax($gridSize, $gridSize));
+//   grid-auto-rows: $gridSize;
+//   grid-auto-flow: row dense;
+//   grid-gap: $boxSpacing;
+//   justify-content: center;
+// }
 
 .card-top, .card-right, .card-bottom, .card-left {
   display: flex;
