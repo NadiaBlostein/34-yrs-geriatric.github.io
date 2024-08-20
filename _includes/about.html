@@ -9,11 +9,16 @@
                 <!-- Section header -->
                 <div class="section-header text-center">
                     <p style="font-size:36px; font-weight: bold; color:black; padding-bottom:10px;">Welcome to Igor & Lidija's 
-                        <span style="background-color: rgb(200, 200, 200) ;opacity: 0.9;">R</span><span style="background-color: #949de3 ;opacity: 0.9;">U</span><span style="background-color: #fbdddb ;opacity: 0.9;">S</span>
-                        <span style="background-color: rgb(200, 200, 200) ;opacity: 0.9;">S</span><span style="background-color: #949de3 ;opacity: 0.9;">I</span><span style="background-color: #fbdddb ;opacity: 0.9;">A</span>.
-                  </p>
+                        <span style="color:white; background-color: blue;opacity: 0.9;">R</span>
+                        <span style="color:white; background-color: red;opacity: 0.9;">U</span>
+                        <span style="color:white; background-color: blue;opacity: 0.9;">S</span>
+                        <span style="color:white; background-color: red;opacity: 0.9;">S</span>
+                        <span style="color:white; background-color: blue;opacity: 0.9;">I</span>
+                        <span style="color:white; background-color: red;opacity: 0.9;">A</span>
+                        
+                    </p>
                     <p>
-                        <h3 style="text-align: center; color:#868F9B">An ongoing seminar series on Igor Mel'čuk and Lidija Iordanskaja's linguistic work and love for poetry.</h2>
+                        <h3 style="text-align: center; color:#868F9B">Ongoing seminars on Igor Mel'čuk and Lidija Iordanskaja's linguistic work and love for poetry.</h2>
 
                         <p>Initiated by their granddaughter Nadia during the 2020 pandemic, we are now resuming where we left off in 2021.<p>
 
@@ -24,22 +29,20 @@
                 <!-- /Section header -->
             <div class="row">
                 <!-- Schedule -->
-                <div class="col-md-6">
                 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].schedule | default: "Schedule" }}</h3>
                 {% include schedule.html %}
-                </div>
-
-                <div class="col-md-6"></div>
+            </div>
+            <div class="row"></div>
                 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].previous_lectures | default: "Previous Lectures" }}</h3>
                 {% include previous_lectures.html %}
-                </div>
-                <!-- Schedule -->
             </div>
+                <!-- Schedule -->
+
                 <!-- about -->
                 <div class="col-md-4">
                     <div class="about">
                         <i class="fa fa-flask"></i>
-                        <h3>Simulate</h3>
+                        <h3>History</h3>
                         <p>Explore qMRI methods with the simulation tools. </p>
                         <p>Generate syntetic data to evaluate how models perform with a given set of parameters. Determine the acquisition protocol that works best for your application. Evaluate how fitting constraints impact the results.</p>
                         <a href="https://qmrlab.readthedocs.io/en/master/introduction.html#data-simulator"> Read more </a>
@@ -51,7 +54,7 @@
                 <div class="col-md-4">
                     <div class="about">
                         <i class="fa fa-magic"></i>
-                        <h3>Fit</h3>
+                        <h3>Poetry</h3>
                         <p>Create your quantitative maps via GUI (graphical user interface) or CLI (command-line interface).</p>
 
                           <p>Intuitively designed interfaces allow you to seamlessly import real-world qMR data, set acquisition parameters and customize fitting options. You can save your fitting session and share it with others to reproduce outputs.</p>
@@ -64,7 +67,7 @@
                 <div class="col-md-4">
                     <div class="about">
                         <i class="fa fa-eye"></i>
-                        <h3>Visualize</h3>
+                        <h3>linguistic</h3>
                         <p>The GUI provides sanity checks and tools for inspecting the results.</p>
 
                           <p>Navigate through the quantitative maps using the embedded volume viewer and check the data fits for selected voxels. Get statistics for the regions that you would like to inspect.</p>
