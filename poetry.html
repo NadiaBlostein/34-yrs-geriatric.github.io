@@ -13,15 +13,19 @@ title: Poetry
     </div>
     <div class="row">
 
-    {% for post in site.poetry %}
+    {% for post in site.posts %}
+    
+        {% if post.categories == poetry %}
+        
+            {% if post.featured == true %}
 
-        {% if post.featured == true %}
+            {% if post.hidden == false %}
 
-          {% if post.hidden == false %}
+                {% include featuredbox.html %}
 
-              {% include featuredbox.html %}
+            {% endif %}
 
-          {% endif %}
+            {% endif %}
 
         {% endif %}
 
