@@ -13,7 +13,7 @@ title: History
     </div>
     <div class="row">
 
-    {% for post in site.history %}
+    {% for post in site.posts %}
 
         {% if post.featured == true %}
 
@@ -44,7 +44,7 @@ title: History
 
     <div class="row listrecent">
 
-        {% for post in site.history %}
+        {% for post in site.posts %}
             {% if post.hidden == false %}
                {% include featuredbox.html %}
             {% endif %}
