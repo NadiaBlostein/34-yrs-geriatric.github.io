@@ -1,21 +1,21 @@
 <div id="poet_refs_home" class="section">
-            	<div class="section-header text-center">
-            	<h2 class="title">Rotating Poet Image References</h2>
-                </div>
-                <div class="row">
-                  {% for affiliation in site.data.poet_refs_home %}
+    <div class="section-header text-center">
+        <h2 class="title">Rotating Poet Image References</h2>
+    </div>
+        <div class="row">
+            {% for affiliation in site.data.poet_refs_home %}
                   <!-- affiliation-logo -->
-                <div class="col-md-5">
-                    <div class="affiliation-logo">
-                        <div class="img-responsive">
-                            <p>affiliation.name<a href="{{ affiliation.web }}">
-                            </a></p>
-                        </div>
+        <div class="col-md-5">
+            
+        <div class="affiliation-logo">
+            <div class="img-responsive">
+                {{ affiliation.name }}:<a href="{{ affiliation.web }}"></a>
+            </div>
 
-                    </div>
-                </div>
-                <!-- /affiliation-logo -->
-                {% endfor %}
+        </div>
+    </div>
+    <!-- /affiliation-logo -->
+    {% endfor %}
 
           </div>
     </div>

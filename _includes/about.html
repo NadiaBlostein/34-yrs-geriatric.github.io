@@ -24,10 +24,21 @@
             </div>
 
             <!-- Schedule -->
-            <p>
-                <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].schedule | default: "Schedule" }}</h3>
-                {% include schedule.html %}
-            </p>
+            <table>
+                <tr>
+                  <th>Date</th>
+                  <th>Time</th>
+                  <th>Topic</th>
+                </tr>
+                <tr></tr>
+                {%- for event in site.data.schedule.main -%}
+                <tr>
+                  <td>{{event.date}}</td>
+                  <td>{{event.time}}</td>
+                  <td>{{event.topic}}</td>
+                </tr>
+                {%- endfor -%}
+              </table>
             
             <p>
                 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].previous_lectures | default: "Previous Lectures" }}</h3>
@@ -65,7 +76,7 @@
                 <div class="col-md-4">
                     <div class="about">
                         <i class="fa fa-eye"></i>
-                        <h3>linguistic</h3>
+                        <h3>Linguistics</h3>
                         <p>The GUI provides sanity checks and tools for inspecting the results.</p>
 
                           <p>Navigate through the quantitative maps using the embedded volume viewer and check the data fits for selected voxels. Get statistics for the regions that you would like to inspect.</p>
