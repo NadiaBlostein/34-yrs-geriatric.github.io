@@ -15,7 +15,7 @@ To add a new image to the carousel: i) upload the image under assets/images and 
 * `label`: the label that is going to be displayed under the image
 * `color`: the color of the label
 
-### Frontpage: _includes/qmrlab-about.html
+### Frontpage: _includes/about.html
 
 The about section that appears just below of the carousel.
 
