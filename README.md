@@ -35,11 +35,11 @@ If the contributor does not have Twitter of Facebook account, please assign the 
 
 ### Frontpage: _includes/affiliation.html
 
-The affiliations section that appears at the bottom of the Frontpage.
+The poet_refs_home section that appears at the bottom of the Frontpage.
 
-This section is based on the information contained in the _data/affiliations.json file.
+This section is based on the information contained in the _data/poet_refs_home.json file.
 
-Entries in the affiliations.json respect the following format:
+Entries in the poet_refs_home.json respect the following format:
 
 `name`: The name of the institution.
 `image` : The name of the affiliation's image file as stored under /assets/images

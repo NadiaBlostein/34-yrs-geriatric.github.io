@@ -1,72 +1,27 @@
 [
       {
-      "image": "poetry-pushkin",
-      "label": "Pushkin",
-      "color": "green"
+            "image": "poetry-akhmatova",
+            "label": "Akhmatova",
+            "color": "orange"
       },
       {
-      "image": "poetry-akhmatova",
-      "label": "Akhmatova",
-      "color": "green"
+            "image": "poetry-esenin",
+            "label": "Esenin",
+            "color": "blue"
       },
       {
-      "image": "poetry-pushkin",
-      "label": "Pushkin",
-      "color": "orange"
+            "image": "poetry-mandelstam",
+            "label": "Mandelstam",
+            "color": "red"
       },
       {
-      "image": "poetry-akhmatova",
-      "label": "Akhmatova",
-      "color": "orange"
-      },
-       {
-      "image": "inversion",
-      "label": "IR-T1",
-      "color": "red"
-      },
-       {
-      "image": "poetry-akhmatova",
-      "label": "Akhmatova",
-      "color": "orange"
-      },
-       {
-      "image": "mtsat",
-      "label": "MTsat",
-      "color": "aqua"
-      }, 
-      {
-      "image": "poetry-akhmatova",
-      "label": "Akhmatova",
-      "color": "red"
-      }, 
-      {
-      "image": "qmtF",
-      "label": "qMT",
-      "color": "aqua"
-      }, 
-      {
-      "image": "vfa",
-      "label": "VFA-T1",
-      "color": "red"
+            "image": "poetry-pushkin",
+            "label": "Pushkin",
+            "color": "green"
       },
       {
-      "image": "qsm",
-      "label": "QSM",
-      "color": "pink"
-      },
-      {
-      "image": "odi",
-      "label": "CHARMED",
-      "color": "orange"
-      },
-      {
-      "image": "mtr",
-      "label": "MTR",
-      "color": "aqua"
-      },
-      {
-      "image": "kf",
-      "label": "qMT",
-      "color": "aqua"
+            "image": "poetry-tsvetaeva",
+            "label": "Tsvetaeva",
+            "color": "yellow"
       }
 ]
