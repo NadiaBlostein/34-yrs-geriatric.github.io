@@ -14,7 +14,9 @@ title: History
     <div class="row">
 
     {% for post in site.posts %}
-        {% if post.categories == "history" %}
+    
+        {% if post.categories == history %}
+        
             {% if post.featured == true %}
 
             {% if post.hidden == false %}
@@ -24,7 +26,9 @@ title: History
             {% endif %}
 
             {% endif %}
-        {% endfor %}
+
+        {% endif %}
+
     {% endfor %}
 
     </div>
