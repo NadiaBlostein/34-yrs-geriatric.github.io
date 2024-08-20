@@ -9,13 +9,7 @@
                 <!-- Section header -->
                 <div class="section-header text-center">
                     <p style="font-size:36px; font-weight: bold; color:black; padding-bottom:10px;">Welcome to Igor & Lidija's 
-                        <span style="color:white; background-color: blue;opacity: 0.9;">R</span>
-                        <span style="color:white; background-color: red;opacity: 0.9;">U</span>
-                        <span style="color:white; background-color: blue;opacity: 0.9;">S</span>
-                        <span style="color:white; background-color: red;opacity: 0.9;">S</span>
-                        <span style="color:white; background-color: blue;opacity: 0.9;">I</span>
-                        <span style="color:white; background-color: red;opacity: 0.9;">A</span>
-                        
+                        <span style="color:white; background-color: blue;opacity: 0.9;">R</span><span style="color:white; background-color: red;opacity: 0.9;">U</span><span style="color:white; background-color: blue;opacity: 0.9;">S</span><span style="color:white; background-color: red;opacity: 0.9;">S</span><span style="color:white; background-color: blue;opacity: 0.9;">I</span><span style="color:white; background-color: red;opacity: 0.9;">A</span> 
                     </p>
                     <p>
                         <h3 style="text-align: center; color:#868F9B">Ongoing seminars on Igor Mel'čuk and Lidija Iordanskaja's linguistic work and love for poetry.</h2>
@@ -27,16 +21,22 @@
                     </p>
                 </div>
                 <!-- /Section header -->
-            <div class="row">
-                <!-- Schedule -->
-                <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].schedule | default: "Schedule" }}</h3>
-                {% include schedule.html %}
+
+            <!-- Schedule -->
+            <div class="col-md-4">
+                <div class="about">
+                    <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].schedule | default: "Schedule" }}</h3>
+                    {% include schedule.html %}
+                </div>
             </div>
-            <div class="row"></div>
-                <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].previous_lectures | default: "Previous Lectures" }}</h3>
-                {% include previous_lectures.html %}
+
+            <div class="col-md-4">
+                <div class="about"></div>
+                    <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].previous_lectures | default: "Previous Lectures" }}</h3>
+                    {% include previous_lectures.html %}
+                </div>
             </div>
-                <!-- Schedule -->
+            <!-- Schedule -->
 
                 <!-- about -->
                 <div class="col-md-4">
