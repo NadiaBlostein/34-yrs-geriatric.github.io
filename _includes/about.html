@@ -8,29 +8,33 @@
 
                 <!-- Section header -->
                 <div class="section-header text-center">
-                    <p style="font-size:36px; font-weight: bold; color:black; padding-bottom:10px;">Welcome to Igor & Lidija's<span style="color:blue;background-color: #949de3 ;opacity: 0.9;">RUS</span><span style="color:red;background-color: #fbdddb ;opacity: 0.9;">SIA</span>.
+                    <p style="font-size:36px; font-weight: bold; color:black; padding-bottom:10px;">Welcome to Igor & Lidija's 
+                        <span style="background-color: rgb(200, 200, 200) ;opacity: 0.9;">R</span><span style="background-color: #949de3 ;opacity: 0.9;">U</span><span style="background-color: #fbdddb ;opacity: 0.9;">S</span>
+                        <span style="background-color: rgb(200, 200, 200) ;opacity: 0.9;">S</span><span style="background-color: #949de3 ;opacity: 0.9;">I</span><span style="background-color: #fbdddb ;opacity: 0.9;">A</span>.
                   </p>
                     <p>
-                        <h3 style="text-align: center; color:#868F9B">Behold the companion guide to an ongoing seminar series on Igor Mel'čuk and Lidija Iordanskaja's linguistic work and love for Russian poetry.</h2>
+                        <h3 style="text-align: center; color:#868F9B">An ongoing seminar series on Igor Mel'čuk and Lidija Iordanskaja's linguistic work and love for poetry.</h2>
 
-                           <p>Their granddaughter Nadia began this series during the pandemic in 2020. We are resuming where this lecture series left off.<p>
+                        <p>Initiated by their granddaughter Nadia during the 2020 pandemic, we are now resuming where we left off in 2021.<p>
 
-                          <p>Lectures will be held every two weeks and rotate between being about a Russian poet and about linguistics.</p>
+                          <p>The bi-weekly lectures will alternate between discussions on Russian poets and topics in linguistics.</p>
 
                     </p>
                 </div>
                 <!-- /Section header -->
-
+            <div class="row">
                 <!-- Schedule -->
+                <div class="col-md-6">
                 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].schedule | default: "Schedule" }}</h3>
-
                 {% include schedule.html %}
+                </div>
 
+                <div class="col-md-6"></div>
                 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].previous_lectures | default: "Previous Lectures" }}</h3>
-
                 {% include previous_lectures.html %}
+                </div>
                 <!-- Schedule -->
-
+            </div>
                 <!-- about -->
                 <div class="col-md-4">
                     <div class="about">
