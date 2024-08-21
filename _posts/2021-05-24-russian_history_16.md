@@ -1,11 +1,11 @@
 ---
 layout: post
 past: true
-date: "2021.05.24"
-time: "20:00-21:00"
+date: 2021.05.24
+time: 20:00:00
 title:  "Russian History 16"
 categories: [ history ]
-image: /assets/images/2021-05-24-img_02.jpg
+image: assets/images/2021-05-24-img_02.jpg
 excerpt: We began around 8 000 years ago in the Indo-European Homeland and ended in 988, when Vladimir the Great adopted Orthodox Christianity.
 featured: true
 hidden: false
