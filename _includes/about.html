@@ -44,12 +44,6 @@
               {% endif %}
             {%- endfor -%}
 
-            <a href="{{ post.url }}" class="btn btn-primary">
-              <p>{{post.date | date: "%-d %B %Y"}}</p>
-              <p>{{post.time}}</p>
-              <p>{{post.title}}</p>
-            </a>
-
             <h3>Previous Lectures</h3>
             {%- for post in site.posts -%}
               {% if post.past == true %}
@@ -59,9 +53,11 @@
                         <img src={{post.image}}>
                       </div>
                       <div class='card-text'>
+                        <a href="{{ post.url }}" class="btn btn-primary"></a>
                         <p>{{post.date | date: "%-d %B %Y"}}</p>
                         <p>{{post.time}}</p>
-                        <p><a href={{post.url}}>{{post.title}}</a></p>
+                        <p>{{post.title}}</p>
+                      </a>
                       </div>
                     </div>
                 </div>
@@ -98,7 +94,6 @@
                         <h3>Linguistics</h3>
                         <p>An introduction to Igor & Lida's meaning-to-text linguistics, with summaries, resources and transcripts below.s</p>
                           <a href="https://igor-and-lidijas-russia.github.io/test2.io/linguistics.html"> Read more </a>
-
 
                     </div>
                 </div>
