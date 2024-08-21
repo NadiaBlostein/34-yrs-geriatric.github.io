@@ -135,21 +135,31 @@ Honour the Light Brigade,
 * Duel and death (January 1837)
 
 **A poem by Alexander Pushkin: “I loved you”.**
-| Я вас любил: любовь ещё, быть может,
-В душе моей угасла не совсем;
-Но пусть она вас больше не тревожит;
-Я не хочу печалить вас ничем.
-Я вас любил безмолвно, безнадежно,
-То робостью, то ревностью томим;
-Я вас любил так искренно, так нежно,
-Как дай вам Бог любимой быть другим. | I loved you, and I probably still do.
-And for a while the feeling may remain.
-But let my love no longer trouble you,
-I do not wish to cause you any pain.
-I loved you; and the hopelessness I knew,
-The jealousy, the shyness- though in vain-
-Made up a love so tender and so true
-As may God grant you to be loved again. |
+<div style="display: flex; justify-content: space-between;">
+
+  <div style="flex: 1; padding: 10px; margin-right: 10px; border: 1px solid #ccc;">
+    <p>Я вас любил: любовь ещё, быть может, \
+      В душе моей угасла не совсем; \
+      Но пусть она вас больше не тревожит; \\
+      Я не хочу печалить вас ничем. \\ 
+      Я вас любил безмолвно, безнадежно,
+      То робостью, то ревностью томим;
+      Я вас любил так искренно, так нежно,
+      Как дай вам Бог любимой быть другим. .</p>
+  </div>
+
+  <div style="flex: 1; padding: 10px; margin-left: 10px; border: 1px solid #ccc;">
+    <p>I loved you, and I probably still do.
+      And for a while the feeling may remain.
+      But let my love no longer trouble you,
+      I do not wish to cause you any pain.
+      I loved you; and the hopelessness I knew,
+      The jealousy, the shyness- though in vain-
+      Made up a love so tender and so true
+      As may God grant you to be loved again.</p>
+  </div>
+
+</div>
 
 **Prose**
 * “The Captain’s Daughter”
