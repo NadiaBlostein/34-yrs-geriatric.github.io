@@ -12,9 +12,7 @@ hidden: false
 
 HW
 
-# Supplementary 1: Main Events
-
-### I. Interventions abroad 
+# Supplementary I. Interventions abroad 
 
 **The Persian War (1826-1828).** Griboyedov.
 
@@ -37,11 +35,11 @@ HW
 <img src="{{ site.baseurl }}/assets/images/2021-05-24-img_05.jpg" title="Vámbéry’s journey to Bukhara (as 
 Raşit Efendi)."/>
 
-### II. The Caucasian War 1817 – 1859
+# Supplementary II. The Caucasian War 1817 – 1859
 <img src="{{ site.baseurl }}/assets/images/2021-05-24-img_06.jpg"/>
 Circassians; Shaov; Chechens; Avars; Shamil; Leo Tolstoy, [Hadji Murad](http://www.online-literature.com/tolstoy/hadji-murad/1/)
 
-### III. The Crimean War 1854 – 1856
+# Supplementary III. The Crimean War 1854 – 1856
 
 **The siege of Sebastopol**
 <img src="{{ site.baseurl }}/assets/images/2021-05-24-img_07.jpg" title="Montreal, Place du Canada: one of the Russian guns seized by the British troops in Sebastopol"/>
@@ -118,10 +116,47 @@ Honour the Light Brigade,
    Noble six hundred!
 ```
 
-### IV. Literature (1800—1825)
+# Supplementary  IV. Literature (1800—1825)
 
-**Alexander Pushkin (1799—1837): “Our Everything”**
+### Alexander Pushkin (1799—1837), “Our Everything”
 
+<img src="{{ site.baseurl }}/assets/images/poetry-pushkin.png"/>
+* Pushkin’s granddad: Abraham Ganibal, Peter the Great’s Blackamoor (reminder: Lecture No. 9)
+* Arína Rodiónovna, the beloved nanny
+* Lyceum (reminder: Derzhavin, Lecture No. 5)
+* Multiple exiles
+* Decembrists
+<img src="{{ site.baseurl }}/assets/images/2021-05-24-img_08.jpg" title="A drawing by Pushkin — the portraits of the five Decembrists who were executed; the caption: 'I could be hanging as well, as a bufoon…'"/>
+<img src="{{ site.baseurl }}/assets/images/2021-05-24-img_09.jpg" title="Pushkin’s wife: Natalya Goncharova"/>
+
+* Duel and death (January 1837)
+
+**A poem by Alexander Pushkin: “I loved you”.**
+| Я вас любил: любовь ещё, быть может,
+В душе моей угасла не совсем;
+Но пусть она вас больше не тревожит;
+Я не хочу печалить вас ничем.
+Я вас любил безмолвно, безнадежно,
+То робостью, то ревностью томим;
+Я вас любил так искренно, так нежно,
+Как дай вам Бог любимой быть другим. | I loved you, and I probably still do.
+And for a while the feeling may remain.
+But let my love no longer trouble you,
+I do not wish to cause you any pain.
+I loved you; and the hopelessness I knew,
+The jealousy, the shyness- though in vain-
+Made up a love so tender and so true
+As may God grant you to be loved again. |
+
+**Prose**
+* “The Captain’s Daughter”
+* “Dubrovsky”
+**Plays**
+* “Boris Godunov” (reminder: Lecture No. 5)
+* “Little Tragedies”: “Faust” & “Egyptian Nights”: https://www.youtube.com/watch?v=1Ke33_1de_Y
+**History**
+* “The History of Pugachëv”
+* “The Blackamoor of Peter the Great” (Rus. noun ARAP means ‘Negro’; ARAB is ‘Arab’).
 
 # Lecture Transcript
 
