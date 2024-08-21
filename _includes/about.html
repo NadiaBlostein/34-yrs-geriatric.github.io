@@ -33,14 +33,22 @@
                         <img src='assets/images/2020-10-07-1956_igor.jpg'>
                       </div>
                       <div class='card-text'>
-                        <p>{{post.date | date: "%-d %B %Y"}}</p>
-                        <p>{{post.time}}</p>
-                        <p>{{post.title}}</p>
+                        <a href="{{ post.url }}" class="btn btn-primary"></a>
+                          <p>{{post.date | date: "%-d %B %Y"}}</p>
+                          <p>{{post.time}}</p>
+                          <p>{{post.title}}</p>
+                        </a>
                       </div>
                     </div>
                 </div>
               {% endif %}
             {%- endfor -%}
+
+            <a href="{{ post.url }}" class="btn btn-primary">
+              <p>{{post.date | date: "%-d %B %Y"}}</p>
+              <p>{{post.time}}</p>
+              <p>{{post.title}}</p>
+            </a>
 
             <h3>Previous Lectures</h3>
             {%- for post in site.posts -%}

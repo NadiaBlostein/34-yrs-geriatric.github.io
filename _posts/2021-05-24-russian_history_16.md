@@ -14,14 +14,16 @@ hidden: false
 
 HW
 
-# Supplementary I. Interventions abroad 
+# I. Interventions abroad 
 
 #### &rarr; The Persian War (1826-1828).
 Griboyedov.
 
 #### &rarr; The Turkish War (1828-1829).
-Because of the Greek-Turkish war of national liberation (Lord Byron; the Navarin naval battle)
-<div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_01.jpg" title="Pushkin’s 'Journey to Erzurum'" style="width: 30%;"></div>
+* The Greek-Turkish war of national liberation;
+* Lord Byron;
+* the Navarin naval battle.
+<div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_01.jpg" title="Pushkin’s 'Journey to Erzurum'" style="width: 30%;"/></div><br>
 
 #### &rarr; The Polish Uprising (1830-1831).
 <div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_02.jpg" title="Russia is the policeman of Europe."/></div>
@@ -34,22 +36,29 @@ Because of the Greek-Turkish war of national liberation (Lord Byron; the Navarin
 * 13 martyrs hanged.
 * Sandor Petőfi (blowing up of his statue in Bratislava in 1919; finding of his skeleton in 1990 in Siberia)
 * [Arminius Vambéry](https://www.gutenberg.org/files/40163/40163-h/40163-h.htm)
-<div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_03.jpg"/></div>
-<div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_04.jpg"/></div>
-<div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_05.jpg" title="Vámbéry’s journey to Bukhara (as Raşit Efendi)."/></div>
+<div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_03.jpg"/><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_04.jpg"/></div>
+<div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_05.jpg" title="Vámbéry’s journey to Bukhara (as Raşit Efendi)." style="width: 30%;"/></div>
 
-# Supplementary II. The Caucasian War 1817 – 1859
-<img src="{{ site.baseurl }}/assets/images/2021-05-24-img_06.jpg"/>
-Circassians; Shaov; Chechens; Avars; Shamil; Leo Tolstoy, [Hadji Murad](http://www.online-literature.com/tolstoy/hadji-murad/1/)
+# II. The Caucasian War (1817 – 1859)
+<div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_06.jpg"/></div>
+* Circassians;
+* Shaov; 
+* Chechens;
+* Avars;
+* Shamil;
+* Leo Tolstoy;
+* [Hadji Murad](http://www.online-literature.com/tolstoy/hadji-murad/1/).
 
-# Supplementary III. The Crimean War 1854 – 1856
+# III. The Crimean War (1854 – 1856)
 
-**The siege of Sebastopol**
-<img src="{{ site.baseurl }}/assets/images/2021-05-24-img_07.jpg" title="Montreal, Place du Canada: one of the Russian guns seized by the British troops in Sebastopol"/>
+#### &rarr; The Siege of Sebastopol
+<div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_07.jpg" title="Montreal, Place du Canada: one of the Russian guns seized by the British troops in Sebastopol"/></div>
 
-**March 1855** The probable suicide of Nicolas I (his personal doctor left Russia immediately, and the Tzar formally prohibited an autopsy).
+#### &rarr; The Probable Suicide of Nicolas I
+* March 1855
+* His personal doctor left Russia immediately, and the Tzar formally prohibited an autopsy.
 
-**The Charge of the Light Brigade** BY ALFRED, LORD TENNYSON
+#### &rarr; The Charge of the Light Brigade BY ALFRED, LORD TENNYSON
 ```
 I
 Half a league, half a league,
@@ -138,24 +147,24 @@ Honour the Light Brigade,
 <div style="display: flex; justify-content: space-between;">
 
   <div style="flex: 1; padding: 10px; margin-right: 10px; border: 1px solid #ccc;">
-    <p>Я вас любил: любовь ещё, быть может, \
-      В душе моей угасла не совсем; \
-      Но пусть она вас больше не тревожит; \\
-      Я не хочу печалить вас ничем. \\ 
-      Я вас любил безмолвно, безнадежно,
-      То робостью, то ревностью томим;
-      Я вас любил так искренно, так нежно,
-      Как дай вам Бог любимой быть другим. .</p>
+    <p>Я вас любил: любовь ещё, быть может,<br>
+      В душе моей угасла не совсем;<br>
+      Но пусть она вас больше не тревожит;<br>
+      Я не хочу печалить вас ничем.<br>
+      Я вас любил безмолвно, безнадежно,<br>
+      То робостью, то ревностью томим;<br>
+      Я вас любил так искренно, так нежно,<br>
+      Как дай вам Бог любимой быть другим.</p>
   </div>
 
   <div style="flex: 1; padding: 10px; margin-left: 10px; border: 1px solid #ccc;">
-    <p>I loved you, and I probably still do.
-      And for a while the feeling may remain.
-      But let my love no longer trouble you,
-      I do not wish to cause you any pain.
-      I loved you; and the hopelessness I knew,
-      The jealousy, the shyness- though in vain-
-      Made up a love so tender and so true
+    <p>I loved you, and I probably still do.<br>
+      And for a while the feeling may remain.<br>
+      But let my love no longer trouble you,<br>
+      I do not wish to cause you any pain.<br>
+      I loved you; and the hopelessness I knew,<br>
+      The jealousy, the shyness- though in vain-<br>
+      Made up a love so tender and so true<br>
       As may God grant you to be loved again.</p>
   </div>
 
