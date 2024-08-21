@@ -118,6 +118,11 @@ Honour the Light Brigade,
    Noble six hundred!
 ```
 
+### IV. Literature (1800—1825)
+
+**Alexander Pushkin (1799—1837): “Our Everything”**
+
+
 # Lecture Transcript
 
 # References.
