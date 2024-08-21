@@ -20,6 +20,8 @@ HW
 
 ![Pushkin’s “Journey to Erzurum”](assets/images/2021-05-24-img_01.jpg)
 
+<img src="{{ site.baseurl }}/assets/images/2021-05-24-img_01.jpg" title = "HW"/>
+
 * The Polish Uprising (1830-1831)
 
 # Lecture Transcript
