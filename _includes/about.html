@@ -25,17 +25,35 @@
 
             <!-- Schedule -->
             <h3>Upcoming Lectures</h3>
-            {%- for event in site.data.schedule.main -%}
-              {% if event.past == false %}
+            {%- for post in site.posts -%}
+              {% if post.past == false %}
                 <div class="row">
                     <div class='card-left'>
                       <div class='card-image'>
                         <img src='assets/images/2020-10-07-1956_igor.jpg'>
                       </div>
                       <div class='card-text'>
-                        <p>{{event.date}}</p>
-                        <p>{{event.time}}</p>
-                        <p>{{event.topic}}</p>
+                        <p>{{post.date}}</p>
+                        <p>{{post.time}}</p>
+                        <p>{{post.title}}</p>
+                      </div>
+                    </div>
+                </div>
+              {% endif %}
+            {%- endfor -%}
+
+            <h3>Previous Lectures</h3>
+            {%- for post in site.posts -%}
+              {% if post.past == true %}
+                <div class="row">
+                    <div class='card-left'>
+                      <div class='card-image'>
+                        <img src={{post.image}}>
+                      </div>
+                      <div class='card-text'>
+                        <p>{{post.date}}</p>
+                        <p>{{post.time}}</p>
+                        <p>{{post.title}}</p>
                       </div>
                     </div>
                 </div>

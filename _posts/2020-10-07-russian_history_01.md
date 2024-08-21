@@ -1,5 +1,8 @@
 ---
 layout: post
+past: true
+date: "2020.10.07"
+time: "20:00-21:00"
 title:  "Russian History 1: Before Christianity"
 categories: [ history ]
 image: /assets/images/2020-10-07-cover.png

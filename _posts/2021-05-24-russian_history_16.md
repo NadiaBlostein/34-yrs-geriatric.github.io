@@ -1,5 +1,8 @@
 ---
 layout: post
+past: true
+date: "2021.05.24"
+time: "20:00-21:00"
 title:  "Russian History 16"
 categories: [ history ]
 image: /assets/images/2021-05-24-img_02.jpg
