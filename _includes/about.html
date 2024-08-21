@@ -33,7 +33,7 @@
                         <img src='assets/images/2020-10-07-1956_igor.jpg'>
                       </div>
                       <div class='card-text'>
-                        <p>{{post.date}}</p>
+                        <p>{{post.date | date: "%-d %B %Y"}}</p>
                         <p>{{post.time}}</p>
                         <p>{{post.title}}</p>
                       </div>
@@ -51,7 +51,7 @@
                         <img src={{post.image}}>
                       </div>
                       <div class='card-text'>
-                        <p>{{post.date}}</p>
+                        <p>{{post.date | date: "%-d %B %Y"}}</p>
                         <p>{{post.time}}</p>
                         <p>{{post.title}}</p>
                       </div>
