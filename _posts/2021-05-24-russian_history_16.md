@@ -16,30 +16,27 @@ HW
 
 # Supplementary I. Interventions abroad 
 
-### The Persian War (1826-1828).
+#### &rarr; The Persian War (1826-1828).
 Griboyedov.
 
-### The Turkish War (1828-1829).
+#### &rarr; The Turkish War (1828-1829).
 Because of the Greek-Turkish war of national liberation (Lord Byron; the Navarin naval battle)
-<div style="text-align: center;">
-  <img src="{{ site.baseurl }}/assets/images/2021-05-24-img_01.jpg" title="Pushkin’s 'Journey to Erzurum'" style="width: 30%;">
-</div>
+<div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_01.jpg" title="Pushkin’s 'Journey to Erzurum'" style="width: 30%;"></div>
 
-### The Polish Uprising (1830-1831).
-<img src="{{ site.baseurl }}/assets/images/2021-05-24-img_02.jpg" title="Russia is the policeman of Europe."/>
-* Karolina Sobańska; secretary to Count General de Witt, her official lover: both being agents of the Russian secret police! (Her sister, Evelina Gańska, later married Balzac.)
-* Pushkin: “Ja vas ljubil” (Lecture 15)
-* Adam Mickiewicz: A trip to Crimea on the “Karolina” yacht  (probably the only case in the history of literature where a secret police operation resulated in a poetic  masterpiece).
+#### &rarr; The Polish Uprising (1830-1831).
+<div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_02.jpg" title="Russia is the policeman of Europe."/></div>
+* Karolina Sobańska: Secretary to Count General de Witt, her official lover: both agents of the Russian secret police! Her sister, Evelina Gańska, later married Balzac.
+* Pushkin: “Ja vas ljubil” (Lecture 15)/
+* Adam Mickiewicz: A trip to Crimea on the “Karolina” yacht  (probably the only case in the history of literature where a secret police operation resulted in a poetic  masterpiece).
 
-### The Hungarian Uprising (1848-1849).
+#### &rarr; The Hungarian Uprising (1848-1849).
 * Nicolas I sent in an army 280 000 strong.
 * 13 martyrs hanged.
 * Sandor Petőfi (blowing up of his statue in Bratislava in 1919; finding of his skeleton in 1990 in Siberia)
 * [Arminius Vambéry](https://www.gutenberg.org/files/40163/40163-h/40163-h.htm)
-<img src="{{ site.baseurl }}/assets/images/2021-05-24-img_03.jpg"/>
-<img src="{{ site.baseurl }}/assets/images/2021-05-24-img_04.jpg"/>
-<img src="{{ site.baseurl }}/assets/images/2021-05-24-img_05.jpg" title="Vámbéry’s journey to Bukhara (as 
-Raşit Efendi)."/>
+<div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_03.jpg"/></div>
+<div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_04.jpg"/></div>
+<div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_05.jpg" title="Vámbéry’s journey to Bukhara (as Raşit Efendi)."/></div>
 
 # Supplementary II. The Caucasian War 1817 – 1859
 <img src="{{ site.baseurl }}/assets/images/2021-05-24-img_06.jpg"/>
