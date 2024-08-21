@@ -24,17 +24,22 @@
             </div>
 
             <!-- Schedule -->
+            <h3>Upcoming Lectures</h3>
             {%- for event in site.data.schedule.main -%}
-              <div class="row">
-                  <div class='card-left'>
-                    <div class='card-image'>
-                      <img src='https://images.pexels.com/photos/220072/pexels-photo-220072.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=750&amp;w=1260'>
+              {% if event.past == false %}
+                <div class="row">
+                    <div class='card-left'>
+                      <div class='card-image'>
+                        <img src='https://images.pexels.com/photos/220072/pexels-photo-220072.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=750&amp;w=1260'>
+                      </div>
+                      <div class='card-text'>
+                        <p>{{event.date}}</p>
+                        <p>{{event.time}}</p>
+                        <p>{{event.topic}}</p>
+                      </div>
                     </div>
-                    <div class='card-text'>
-                      <p><td>{{event.date}}</td><td>{{event.time}}</td><td>{{event.topic}}</td></p>
-                    </div>
-                  </div>
-              </div>
+                </div>
+              {% endif %}
             {%- endfor -%}
             <!-- Schedule 
             <table>
