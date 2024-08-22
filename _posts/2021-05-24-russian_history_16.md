@@ -18,30 +18,29 @@ HW
 
 <details>
    <summary>The Persian War (1826-1828).</summary>
-      * Griboyedov.
+      &rarr Griboyedov.
 </details>
 
 <details>
   <summary>The Turkish War (1828-1829).</summary>
 
-  * The Greek-Turkish war of national liberation;
-  * Lord Byron;
-  * The Navarin naval battle.
+  &rarr The Greek-Turkish war of national liberation;<br>
+  &rarr Lord Byron;<br>
+  &rarr The Navarin naval battle.<br>
   
-  <div style="text-align: center;">
+  <figure style="text-align: center;">
     <img src="{{ site.baseurl }}/assets/images/2021-05-24-img_01.jpg" 
-         title="Pushkin’s 'Journey to Erzurum'" 
          style="width: 30%;"/>
-  </div>
+      <figcaption>Pushkin’s 'Journey to Erzurum'</figcaption>
+  </figure>
 </details>
 
 <details>
-<summary>The Polish Uprising (1830-1831).</summary>
-<div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_02.jpg" title="Russia is the policeman of Europe."/></div>
-
-* Karolina Sobańska: Secretary to Count General de Witt, her official lover: both agents of the Russian secret police! Her sister, Evelina Gańska, later married Balzac.
-* Pushkin: “Ja vas ljubil” (Lecture 15)/
-* Adam Mickiewicz: A trip to Crimea on the “Karolina” yacht  (probably the only case in the history of literature where a secret police operation resulted in a poetic  masterpiece).
+   <summary>The Polish Uprising (1830-1831).</summary>
+   <div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_02.jpg" title="Russia is the policeman of Europe."/></div><br>
+        &rarr Karolina Sobańska: Secretary to Count General de Witt, her official lover: both agents of the Russian secret police! Her sister, Evelina Gańska, later married Balzac. <br>
+        &rarr Pushkin: “Ja vas ljubil” (Lecture 15). <br>
+        &rarr Adam Mickiewicz: A trip to Crimea on the “Karolina” yacht  (probably the only case in the history of literature where a secret police operation resulted in a poetic  masterpiece).
 </details>
 
 <details>

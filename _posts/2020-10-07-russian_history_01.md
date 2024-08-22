@@ -2,7 +2,7 @@
 layout: post
 past: true
 time: "20:00:00"
-title:  "Russian History 1: Before Christianity"
+title:  "History 1: Before Christianity"
 categories: [ history ]
 image: assets/images/cover-default-01B.jpg
 excerpt: We began around 8 000 years ago in the Indo-European Homeland and ended in 988, when Vladimir the Great adopted Orthodox Christianity.
