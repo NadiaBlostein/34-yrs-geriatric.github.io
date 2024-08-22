@@ -28,10 +28,10 @@ HW
    * The Greek-Turkish war of national liberation;<br>
    * Lord Byron;<br>
    * The Navarin naval battle.<br>
-</div
+</div>
   <figure style="text-align: center;">
     <img src="{{ site.baseurl }}/assets/images/2021-05-24-img_01.jpg" 
-         style="width: 30%;"/>
+         style="width: 45%;"/>
       <figcaption>Pushkin’s 'Journey to Erzurum'</figcaption>
   </figure>
 </details>
