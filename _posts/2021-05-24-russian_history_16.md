@@ -20,16 +20,13 @@ HW
 Griboyedov.
 
 <details>
-  <summary><h3>&rarr; The Turkish War (1828-1829).</h3></summary>
+  <summary>&rarr; **The Turkish War (1828-1829).**</summary>
+  
    * The Greek-Turkish war of national liberation;
    * Lord Byron;
    * the Navarin naval battle.
    <div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_01.jpg" title="Pushkin’s 'Journey to Erzurum'" style="width: 30%;"/></div><br>
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
+
 </details>
 
 #### &rarr; The Polish Uprising (1830-1831).
@@ -153,7 +150,7 @@ Honour the Light Brigade,
 **A poem by Alexander Pushkin: “I loved you”.**
 <div style="display: flex; justify-content: space-between;">
 
-  <div style="flex: 1; padding: 10px; margin-right: 10px; border: 1px solid #ccc;">
+  <div style="flex: 1; padding: 10px; margin-right: 10px; border: 1px solid #ccc; font-size: 14px">
     <p>Я вас любил: любовь ещё, быть может,<br>
       В душе моей угасла не совсем;<br>
       Но пусть она вас больше не тревожит;<br>
@@ -164,7 +161,7 @@ Honour the Light Brigade,
       Как дай вам Бог любимой быть другим.</p>
   </div>
 
-  <div style="flex: 1; padding: 10px; margin-left: 10px; border: 1px solid #ccc;">
+  <div style="flex: 1; padding: 10px; margin-left: 10px; border: 1px solid #ccc; font-size: 14px">
     <p>I loved you, and I probably still do.<br>
       And for a while the feeling may remain.<br>
       But let my love no longer trouble you,<br>
