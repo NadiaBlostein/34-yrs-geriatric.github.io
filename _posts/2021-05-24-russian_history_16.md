@@ -23,11 +23,12 @@ HW
 
 <details>
   <summary>The Turkish War (1828-1829).</summary>
+<div>
 
-  &rarr The Greek-Turkish war of national liberation;<br>
-  &rarr Lord Byron;<br>
-  &rarr The Navarin naval battle.<br>
-  
+   * The Greek-Turkish war of national liberation;<br>
+   * Lord Byron;<br>
+   * The Navarin naval battle.<br>
+</div
   <figure style="text-align: center;">
     <img src="{{ site.baseurl }}/assets/images/2021-05-24-img_01.jpg" 
          style="width: 30%;"/>
@@ -38,9 +39,13 @@ HW
 <details>
    <summary>The Polish Uprising (1830-1831).</summary>
    <div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_02.jpg" title="Russia is the policeman of Europe."/></div><br>
-        &#8594; Karolina Sobańska: Secretary to Count General de Witt, her official lover: both agents of the Russian secret police! Her sister, Evelina Gańska, later married Balzac. <br>
-        &#8594; Pushkin: “Ja vas ljubil” (Lecture 15). <br>
-        $&rarr$ Adam Mickiewicz: A trip to Crimea on the “Karolina” yacht  (probably the only case in the history of literature where a secret police operation resulted in a poetic  masterpiece).
+   <div>
+   \
+
+   * Karolina Sobańska: Secretary to Count General de Witt, her official lover: both agents of the Russian secret police! Her sister, Evelina Gańska, later married Balzac. <br>
+   &#8594; Pushkin: “Ja vas ljubil” (Lecture 15). <br>
+   &rarr Adam Mickiewicz: A trip to Crimea on the “Karolina” yacht  (probably the only case in the history of literature where a secret police operation resulted in a poetic  masterpiece).
+   </div>
 </details>
 
 <details>
