@@ -18,16 +18,15 @@ HW
 
 <details>
    <summary>The Persian War (1826-1828).</summary>
-      &rarr Griboyedov.
+      &#8594;  Griboyedov.
 </details>
 
 <details>
   <summary>The Turkish War (1828-1829).</summary>
 <div>
-
-   * The Greek-Turkish war of national liberation;<br>
-   * Lord Byron;<br>
-   * The Navarin naval battle.<br>
+   &#8594; The Greek-Turkish war of national liberation;<br>
+   &#8594; Lord Byron;<br>
+   &#8594; The Navarin naval battle.<br>
 </div>
   <figure style="text-align: center;">
     <img src="{{ site.baseurl }}/assets/images/2021-05-24-img_01.jpg" 
@@ -38,25 +37,23 @@ HW
 
 <details>
    <summary>The Polish Uprising (1830-1831).</summary>
-   <div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_02.jpg" title="Russia is the policeman of Europe."/></div><br>
-   <div>
-   \
-
-   * Karolina Sobańska: Secretary to Count General de Witt, her official lover: both agents of the Russian secret police! Her sister, Evelina Gańska, later married Balzac. <br>
+   <figure style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_02.jpg" style="width: 45%;"/></div><figcaption>Russia is the policeman of Europe.</figcaption>
+   </figure>
+<div>
+   &#8594;  Karolina Sobańska: Secretary to Count General de Witt, her official lover: both agents of the Russian secret police! Her sister, Evelina Gańska, later married Balzac. <br>
    &#8594; Pushkin: “Ja vas ljubil” (Lecture 15). <br>
-   &rarr Adam Mickiewicz: A trip to Crimea on the “Karolina” yacht  (probably the only case in the history of literature where a secret police operation resulted in a poetic  masterpiece).
-   </div>
+   &#8594; Adam Mickiewicz: A trip to Crimea on the “Karolina” yacht  (probably the only case in the history of literature where a secret police operation resulted in a poetic  masterpiece).
+</div>
 </details>
 
 <details>
-<summary>The Hungarian Uprising (1848-1849).</summary>
-
-* Nicolas I sent in an army 280 000 strong.
-* 13 martyrs hanged.
-* Sandor Petőfi (blowing up of his statue in Bratislava in 1919; finding of his skeleton in 1990 in Siberia)
-* [Arminius Vambéry](https://www.gutenberg.org/files/40163/40163-h/40163-h.htm)
-<div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_03.jpg"/><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_04.jpg"/></div>
-<div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_05.jpg" title="Vámbéry’s journey to Bukhara (as Raşit Efendi)." style="width: 30%;"/></div>
+   <summary>The Hungarian Uprising (1848-1849).</summary>
+      &#8594; Nicolas I sent in an army 280 000 strong.
+      &#8594; 13 martyrs hanged.
+      &#8594; Sandor Petőfi (blowing up of his statue in Bratislava in 1919; finding of his skeleton in 1990 in Siberia)
+      &#8594; [Arminius Vambéry](https://www.gutenberg.org/files/40163/40163-h/40163-h.htm)
+   <figure style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_03.jpg" style="height: 20%;"/><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_04.jpg" style="height: 20%;"/></figure>
+   <figure style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_05.jpg" style="width: 30%;"/><figcaption>Vámbéry’s journey to Bukhara (as Raşit Efendi).</figcaption></figure>
 </details>
 
 # II. The Caucasian War (1817 – 1859)
