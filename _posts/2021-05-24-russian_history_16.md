@@ -20,10 +20,18 @@ HW
 Griboyedov.
 
 #### &rarr; The Turkish War (1828-1829).
-* The Greek-Turkish war of national liberation;
-* Lord Byron;
-* the Navarin naval battle.
-<div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_01.jpg" title="Pushkin’s 'Journey to Erzurum'" style="width: 30%;"/></div><br>
+<details>
+  <summary>Click me</summary>
+   * The Greek-Turkish war of national liberation;
+   * Lord Byron;
+   * the Navarin naval battle.
+   <div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_01.jpg" title="Pushkin’s 'Journey to Erzurum'" style="width: 30%;"/></div><br>
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
 
 #### &rarr; The Polish Uprising (1830-1831).
 <div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_02.jpg" title="Russia is the policeman of Europe."/></div>

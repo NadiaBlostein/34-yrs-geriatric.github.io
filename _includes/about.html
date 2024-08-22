@@ -34,9 +34,9 @@
                       </div>
                       <div class='card-text'>
                         <a href="{{ post.url }}" class="btn btn-primary"></a>
-                          <p>{{post.date | date: "%-d %B %Y"}}</p>
-                          <p>{{post.time}}</p>
-                          <p>{{post.title}}</p>
+                          {{post.date | date: "%-d %B %Y"}}<br>
+                          {{post.time}}<br>
+                          {{post.title}}<br>
                         </a>
                       </div>
                     </div>
