@@ -23,11 +23,13 @@ HW
 
 <details>
   <summary>The Turkish War (1828-1829).</summary>
-  
+  <p>
+
    * The Greek-Turkish war of national liberation;
    * Lord Byron;
    * the Navarin naval battle.
-   <div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_01.jpg" title="Pushkin’s 'Journey to Erzurum'" style="width: 30%;"/></div><
+   <div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_01.jpg" title="Pushkin’s 'Journey to Erzurum'" style="width: 30%;"/></div>
+   </p>
 </details>
 
 <details>
@@ -39,13 +41,16 @@ HW
 * Adam Mickiewicz: A trip to Crimea on the “Karolina” yacht  (probably the only case in the history of literature where a secret police operation resulted in a poetic  masterpiece).
 </details>
 
-#### &rarr; The Hungarian Uprising (1848-1849).
+<details>
+<summary>The Hungarian Uprising (1848-1849).</summary>
+
 * Nicolas I sent in an army 280 000 strong.
 * 13 martyrs hanged.
 * Sandor Petőfi (blowing up of his statue in Bratislava in 1919; finding of his skeleton in 1990 in Siberia)
 * [Arminius Vambéry](https://www.gutenberg.org/files/40163/40163-h/40163-h.htm)
 <div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_03.jpg"/><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_04.jpg"/></div>
 <div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_05.jpg" title="Vámbéry’s journey to Bukhara (as Raşit Efendi)." style="width: 30%;"/></div>
+</details>
 
 # II. The Caucasian War (1817 – 1859)
 <div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_06.jpg"/></div>
