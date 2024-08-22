@@ -2,7 +2,7 @@
       {
             "image": "poetry-akhmatova",
             "label": "Akhmatova",
-            "color": "red"
+            "color": "pink"
       },
       {
             "image": "poetry-esenin",
@@ -12,26 +12,31 @@
       {
             "image": "poetry-griboyedov",
             "label": "Griboyedov",
-            "color": "red"
+            "color": "white"
       },
       {
             "image": "poetry-krylov",
             "label": "Krylov",
-            "color": "blue"
+            "color": "pink"
       },
       {
             "image": "poetry-mandelshtam",
             "label": "Mandelshtam",
-            "color": "red"
+            "color": "blue"
       },
       {
             "image": "poetry-pushkin",
             "label": "Pushkin",
-            "color": "blue"
+            "color": "white"
       },
       {
             "image": "poetry-tsvetaeva",
             "label": "Tsvetaeva",
-            "color": "red"
+            "color": "pink"
+      },
+      {
+            "image": "poetry-zabolotsky",
+            "label": "Zabolotsky",
+            "color": "blue"
       }
 ]
