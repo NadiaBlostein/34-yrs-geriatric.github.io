@@ -32,11 +32,11 @@
                       <div class='card-image'>
                         <img src='assets/images/2020-10-07-1956_igor.jpg'>
                       </div>
-                      <div class='card-text'>
+                      <div class='card-text' style="text-align: left;">
                         <a href="{{ post.url }}" class="btn btn-primary"></a>
-                          {{post.date | date: "%-d %B %Y"}}<br>
-                          {{post.time}}<br>
-                          {{post.title}}<br>
+                          <p>{{post.date | date: "%-d %B %Y"}}</p>
+                          <p>{{post.time}}</p>
+                          <p>{{post.title}}</p>
                         </a>
                       </div>
                     </div>

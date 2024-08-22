@@ -19,9 +19,8 @@ HW
 #### &rarr; The Persian War (1826-1828).
 Griboyedov.
 
-#### &rarr; The Turkish War (1828-1829).
 <details>
-  <summary>Click me</summary>
+  <summary><h3>&rarr; The Turkish War (1828-1829).</h3></summary>
    * The Greek-Turkish war of national liberation;
    * Lord Byron;
    * the Navarin naval battle.
