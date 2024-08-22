@@ -1,17 +1,22 @@
 [
       {
             "image": "poetry-akhmatova",
-            "label": "Akhmatova",
+            "label": "А. А. Ахматова",
             "color": "pink"
       },
       {
+            "image": "poetry-bulgakov",
+            "label": "М. A. Булгаков",
+            "color": "green"
+      },
+      {
             "image": "poetry-esenin",
-            "label": "Esenin",
+            "label": "С. А. Есенин",
             "color": "blue"
       },
       {
             "image": "poetry-griboyedov",
-            "label": "Griboyedov",
+            "label": "А. С. Грибоедов",
             "color": "white"
       },
       {
@@ -21,22 +26,22 @@
       },
       {
             "image": "poetry-mandelshtam",
-            "label": "Mandelshtam",
+            "label": "И. А. Крылов",
             "color": "blue"
       },
       {
             "image": "poetry-pushkin",
-            "label": "Pushkin",
+            "label": "А. С. Пушкин",
             "color": "white"
       },
       {
             "image": "poetry-tsvetaeva",
-            "label": "Tsvetaeva",
+            "label": "М. И. Цветаева",
             "color": "pink"
       },
       {
             "image": "poetry-zabolotsky",
-            "label": "Zabolotsky",
+            "label": "Н. А. Заболоцкий",
             "color": "blue"
       }
 ]
