@@ -17,20 +17,22 @@ HW
 # I. Interventions abroad 
 
 <details>
-<summary>The Persian War (1826-1828).</summary>
-* Griboyedov.
+   <summary>The Persian War (1826-1828).</summary>
+      * Griboyedov.
 </details>
 
 <details>
   <summary>The Turkish War (1828-1829).</summary>
-  <p>
-  </p>
 
-   * The Greek-Turkish war of national liberation;
-   * Lord Byron;
-   * the Navarin naval battle.
-   <div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_01.jpg" title="Pushkin’s 'Journey to Erzurum'" style="width: 30%;"/></div>
-   
+  * The Greek-Turkish war of national liberation;
+  * Lord Byron;
+  * The Navarin naval battle.
+  
+  <div style="text-align: center;">
+    <img src="{{ site.baseurl }}/assets/images/2021-05-24-img_01.jpg" 
+         title="Pushkin’s 'Journey to Erzurum'" 
+         style="width: 30%;"/>
+  </div>
 </details>
 
 <details>
