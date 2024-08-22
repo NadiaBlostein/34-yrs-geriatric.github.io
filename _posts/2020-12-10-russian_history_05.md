@@ -4,7 +4,7 @@ past: true
 time: "20:00:00"
 title:  "Russian History 5"
 categories: [ history ]
-image: assets/images/2020-10-07-cover.jpg
+image: assets/images/cover-default-02A.jpg
 excerpt: 
 featured: true
 hidden: false

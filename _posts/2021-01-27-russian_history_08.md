@@ -4,7 +4,7 @@ past: true
 time: "20:00:00"
 title:  "Russian History 8"
 categories: [ history ]
-image: assets/images/2020-10-14-cover.jpg
+image: assets/images/cover-default-01A.jpg
 excerpt: 
 featured: true
 hidden: false
