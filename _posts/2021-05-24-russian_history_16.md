@@ -17,7 +17,7 @@ HW
 # I. Interventions abroad 
 
 <details>
-   <summary>The Persian War (1826-1828).</summary>
+   <summary style="font-size: 16; font-weight: bold;">The Persian War (1826-1828).</summary>
       &#8594;  Griboyedov.
 </details>
 
@@ -48,9 +48,9 @@ HW
 
 <details>
    <summary>The Hungarian Uprising (1848-1849).</summary>
-      &#8594; Nicolas I sent in an army 280 000 strong.
-      &#8594; 13 martyrs hanged.
-      &#8594; Sandor Petőfi (blowing up of his statue in Bratislava in 1919; finding of his skeleton in 1990 in Siberia)
+      &#8594; Nicolas I sent in an army 280 000 strong.<br>
+      &#8594; 13 martyrs hanged.<br>
+      &#8594; Sandor Petőfi (blowing up of his statue in Bratislava in 1919; finding of his skeleton in 1990 in Siberia)<br>
       &#8594; [Arminius Vambéry](https://www.gutenberg.org/files/40163/40163-h/40163-h.htm)
    <figure style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_03.jpg" style="height: 20%;"/><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_04.jpg" style="height: 20%;"/></figure>
    <figure style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_05.jpg" style="width: 30%;"/><figcaption>Vámbéry’s journey to Bukhara (as Raşit Efendi).</figcaption></figure>
@@ -58,92 +58,108 @@ HW
 
 # II. The Caucasian War (1817 – 1859)
 <div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_06.jpg"/></div>
-* Circassians;
-* Shaov; 
-* Chechens;
-* Avars;
-* Shamil;
-* Leo Tolstoy;
-* [Hadji Murad](http://www.online-literature.com/tolstoy/hadji-murad/1/).
+<details>
+   <summary>Key Words.</summary>
+   <div>
+      &#8594; Circassians;
+      &#8594; Shaov; 
+      &#8594; Chechens;
+      &#8594; Avars;
+      &#8594; Shamil;
+      &#8594; Leo Tolstoy;
+      &#8594; [Hadji Murad](http://www.online-literature.com/tolstoy/hadji-murad/1/).
+   </div>
+</details>
 
 # III. The Crimean War (1854 – 1856)
 
-#### &rarr; The Siege of Sebastopol
-<div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_07.jpg" title="Montreal, Place du Canada: one of the Russian guns seized by the British troops in Sebastopol"/></div>
+<details>
+   <summary>The Siege of Sebastopol (1854-1855).</summary>
+   <figure style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_07.jpg" style="width: 30%;"/><figcaption>Montreal, Place du Canada: one of the Russian guns seized by the British troops in Sebastopol.</figcaption></figure>
+</details>
 
-#### &rarr; The Probable Suicide of Nicolas I
-* March 1855
-* His personal doctor left Russia immediately, and the Tzar formally prohibited an autopsy.
+<details>
+   <summary>Death of Nicolas I (1855).</summary>
+   <div>
+      &#8594; Probable suicide;
+      &#8594; Nicolas I's personal doctor left Russia immediately;
+      &#8594; The Tzar formally prohibited an autopsy.
+   </div>
+</details>
 
-#### &rarr; The Charge of the Light Brigade BY ALFRED, LORD TENNYSON
-```
-I
-Half a league, half a league,
-Half a league onward,
-All in the valley of Death
-   Rode the six hundred.
-“Forward, the Light Brigade!
-Charge for the guns!” he said.
-Into the valley of Death
-   Rode the six hundred.
+<details>
+   <summary>The Charge of the Light Brigade by ALFRED, LORD TENNYSON (1854)</summary>
+   <div>
+      ```
+      I
+      Half a league, half a league,
+      Half a league onward,
+      All in the valley of Death
+         Rode the six hundred.
+      “Forward, the Light Brigade!
+      Charge for the guns!” he said.
+      Into the valley of Death
+         Rode the six hundred.
 
-II
-“Forward, the Light Brigade!”
-Was there a man dismayed?
-Not though the soldier knew
-   Someone had blundered.
-   Theirs not to make reply,
-   Theirs not to reason why,
-   Theirs but to do and die.
-   Into the valley of Death
-   Rode the six hundred.
+      II
+      “Forward, the Light Brigade!”
+      Was there a man dismayed?
+      Not though the soldier knew
+         Someone had blundered.
+         Theirs not to make reply,
+         Theirs not to reason why,
+         Theirs but to do and die.
+         Into the valley of Death
+         Rode the six hundred.
 
-III
-Cannon to right of them,
-Cannon to left of them,
-Cannon in front of them
-   Volleyed and thundered;
-Stormed at with shot and shell,
-Boldly they rode and well,
-Into the jaws of Death,
-Into the mouth of hell
-   Rode the six hundred.
+      III
+      Cannon to right of them,
+      Cannon to left of them,
+      Cannon in front of them
+         Volleyed and thundered;
+      Stormed at with shot and shell,
+      Boldly they rode and well,
+      Into the jaws of Death,
+      Into the mouth of hell
+         Rode the six hundred.
 
-IV
-Flashed all their sabres bare,
-Flashed as they turned in air
-Sabring the gunners there,
-Charging an army, while
-   All the world wondered.
-Plunged in the battery-smoke
-Right through the line they broke;
-Cossack and Russian
-Reeled from the sabre stroke
-   Shattered and sundered.
-Then they rode back, but not
-   Not the six hundred.
+      IV
+      Flashed all their sabres bare,
+      Flashed as they turned in air
+      Sabring the gunners there,
+      Charging an army, while
+         All the world wondered.
+      Plunged in the battery-smoke
+      Right through the line they broke;
+      Cossack and Russian
+      Reeled from the sabre stroke
+         Shattered and sundered.
+      Then they rode back, but not
+         Not the six hundred.
 
-V
-Cannon to right of them,
-Cannon to left of them,
-Cannon behind them
-   Volleyed and thundered;
-Stormed at with shot and shell,
-While horse and hero fell.
-They that had fought so well
-Came through the jaws of Death,
-Back from the mouth of hell,
-All that was left of them,
-   Left of six hundred.
+      V
+      Cannon to right of them,
+      Cannon to left of them,
+      Cannon behind them
+         Volleyed and thundered;
+      Stormed at with shot and shell,
+      While horse and hero fell.
+      They that had fought so well
+      Came through the jaws of Death,
+      Back from the mouth of hell,
+      All that was left of them,
+         Left of six hundred.
 
-VI
-When can their glory fade?
-O the wild charge they made!
-   All the world wondered.
-Honour the charge they made!
-Honour the Light Brigade,
-   Noble six hundred!
-```
+      VI
+      When can their glory fade?
+      O the wild charge they made!
+         All the world wondered.
+      Honour the charge they made!
+      Honour the Light Brigade,
+         Noble six hundred!
+      ```
+   </div>
+</details>
 
 # Supplementary  IV. Literature (1800—1825)
 
