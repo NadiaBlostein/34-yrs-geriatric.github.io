@@ -38,9 +38,9 @@ HW
 <details>
    <summary>The Polish Uprising (1830-1831).</summary>
    <div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_02.jpg" title="Russia is the policeman of Europe."/></div><br>
-        &rarr Karolina Sobańska: Secretary to Count General de Witt, her official lover: both agents of the Russian secret police! Her sister, Evelina Gańska, later married Balzac. <br>
-        &rarr Pushkin: “Ja vas ljubil” (Lecture 15). <br>
-        &rarr Adam Mickiewicz: A trip to Crimea on the “Karolina” yacht  (probably the only case in the history of literature where a secret police operation resulted in a poetic  masterpiece).
+        &#8594; Karolina Sobańska: Secretary to Count General de Witt, her official lover: both agents of the Russian secret police! Her sister, Evelina Gańska, later married Balzac. <br>
+        &#8594; Pushkin: “Ja vas ljubil” (Lecture 15). <br>
+        $&rarr$ Adam Mickiewicz: A trip to Crimea on the “Karolina” yacht  (probably the only case in the history of literature where a secret police operation resulted in a poetic  masterpiece).
 </details>
 
 <details>
