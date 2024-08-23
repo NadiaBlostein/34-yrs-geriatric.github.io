@@ -97,20 +97,17 @@ HW
    <summary style="font-size: 18; font-weight: bold;">The Charge of the Light Brigade by ALFRED, LORD TENNYSON (1854)</summary>
    <div>
    <p>
-      ```
-      I
-      Half a league, half a league,
-      Half a league onward,
-      All in the valley of Death
-         Rode the six hundred.
-      “Forward, the Light Brigade!
-      Charge for the guns!” he said.
-      Into the valley of Death
-         Rode the six hundred.
-      ```
+      I<br>
+      Half a league, half a league,<br>r
+      Half a league onward,<b>
+      All in the valley of Death<br>
+         Rode the six hundred.<br>
+      “Forward, the Light Brigade!<br>
+      Charge for the guns!” he said.<br>
+      Into the valley of Death<br>
+         Rode the six hundred.<br>
    </p>
-      ```
-
+   <p>
       II
       “Forward, the Light Brigade!”
       Was there a man dismayed?
@@ -121,7 +118,8 @@ HW
          Theirs but to do and die.
          Into the valley of Death
          Rode the six hundred.
-
+   </p>
+   <p>
       III
       Cannon to right of them,
       Cannon to left of them,
@@ -132,7 +130,8 @@ HW
       Into the jaws of Death,
       Into the mouth of hell
          Rode the six hundred.
-
+   </p>
+   <p>
       IV
       Flashed all their sabres bare,
       Flashed as they turned in air
@@ -146,7 +145,8 @@ HW
          Shattered and sundered.
       Then they rode back, but not
          Not the six hundred.
-
+   </p>
+   <p>
       V
       Cannon to right of them,
       Cannon to left of them,
@@ -159,7 +159,8 @@ HW
       Back from the mouth of hell,
       All that was left of them,
          Left of six hundred.
-
+   </p>
+   <p>
       VI
       When can their glory fade?
       O the wild charge they made!
@@ -167,9 +168,10 @@ HW
       Honour the charge they made!
       Honour the Light Brigade,
          Noble six hundred!
-      ```
+   </p>
    </div>
 </details>
+<br>
 
 # Supplementary  IV. Literature (1800—1825)
 
