@@ -17,12 +17,13 @@ HW
 # I. Interventions abroad 
 
 <details>
-   <summary style="font-size: 16; font-weight: bold;">The Persian War (1826-1828).</summary>
+   <summary style="font-size: 18; font-weight: bold;">The Persian War (1826-1828).</summary>
       &#8594;  Griboyedov.
 </details>
+<br>
 
 <details>
-  <summary>The Turkish War (1828-1829).</summary>
+  <summary style="font-size: 18; font-weight: bold;">The Turkish War (1828-1829).</summary>
 <div>
    &#8594; The Greek-Turkish war of national liberation;<br>
    &#8594; Lord Byron;<br>
@@ -34,9 +35,10 @@ HW
       <figcaption>Pushkin’s 'Journey to Erzurum'</figcaption>
   </figure>
 </details>
+<br>
 
 <details>
-   <summary>The Polish Uprising (1830-1831).</summary>
+   <summary style="font-size: 18; font-weight: bold;">The Polish Uprising (1830-1831).</summary>
    <figure style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_02.jpg" style="width: 45%;"/></div><figcaption>Russia is the policeman of Europe.</figcaption>
    </figure>
 <div>
@@ -45,9 +47,10 @@ HW
    &#8594; Adam Mickiewicz: A trip to Crimea on the “Karolina” yacht  (probably the only case in the history of literature where a secret police operation resulted in a poetic  masterpiece).
 </div>
 </details>
+<br>
 
 <details>
-   <summary>The Hungarian Uprising (1848-1849).</summary>
+   <summary style="font-size: 18; font-weight: bold;">The Hungarian Uprising (1848-1849).</summary>
       &#8594; Nicolas I sent in an army 280 000 strong.<br>
       &#8594; 13 martyrs hanged.<br>
       &#8594; Sandor Petőfi (blowing up of his statue in Bratislava in 1919; finding of his skeleton in 1990 in Siberia)<br>
@@ -55,11 +58,12 @@ HW
    <figure style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_03.jpg" style="height: 20%;"/><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_04.jpg" style="height: 20%;"/></figure>
    <figure style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_05.jpg" style="width: 30%;"/><figcaption>Vámbéry’s journey to Bukhara (as Raşit Efendi).</figcaption></figure>
 </details>
+<br>
 
 # II. The Caucasian War (1817 – 1859)
 <div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_06.jpg" style="width: 30%"/></div>
 <details>
-   <summary>Key Words.</summary>
+   <summary style="font-size: 18; font-weight: bold;">Key Words.</summary>
    <div>
       &#8594; Circassians;<br>
       &#8594; Shaov;<br>
@@ -69,25 +73,28 @@ HW
       &#8594; Leo Tolstoy; <a href="http://www.online-literature.com/tolstoy/hadji-murad/1/">Hadji Murad</a>.
    </div>
 </details>
+<br>
 
 # III. The Crimean War (1854 – 1856)
 
 <details>
-   <summary>The Siege of Sebastopol (1854-1855).</summary>
+   <summary style="font-size: 18; font-weight: bold;">The Siege of Sebastopol (1854-1855).</summary>
    <figure style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_07.jpg" style="width: 30%;"/><figcaption>Montreal, Place du Canada: one of the Russian guns seized by the British troops in Sebastopol.</figcaption></figure>
 </details>
+<br>
 
 <details>
-   <summary>Death of Nicolas I (1855).</summary>
+   <summary style="font-size: 18; font-weight: bold;">Death of Nicolas I (1855).</summary>
    <div>
-      &#8594; Probable suicide;
-      &#8594; Nicolas I's personal doctor left Russia immediately;
+      &#8594; Probable suicide;<br>
+      &#8594; Nicolas I's personal doctor left Russia immediately;<br>
       &#8594; The Tzar formally prohibited an autopsy.
    </div>
 </details>
+<br>
 
 <details>
-   <summary>The Charge of the Light Brigade by ALFRED, LORD TENNYSON (1854)</summary>
+   <summary style="font-size: 18; font-weight: bold;">The Charge of the Light Brigade by ALFRED, LORD TENNYSON (1854)</summary>
    <div>
    <p>
       ```

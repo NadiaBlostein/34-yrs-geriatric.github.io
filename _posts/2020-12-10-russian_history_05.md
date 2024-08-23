@@ -5,7 +5,7 @@ time: "20:00:00"
 title:  "Russian History 5"
 categories: [ history ]
 image: assets/images/cover-default-02A.jpg
-excerpt: 
+excerpt: Page incomplete.
 featured: true
 hidden: false
 ---
