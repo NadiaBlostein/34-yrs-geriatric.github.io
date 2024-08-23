@@ -57,17 +57,16 @@ HW
 </details>
 
 # II. The Caucasian War (1817 – 1859)
-<div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_06.jpg"/></div>
+<div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_06.jpg" style="width: 30%"/></div>
 <details>
    <summary>Key Words.</summary>
    <div>
-      &#8594; Circassians;
-      &#8594; Shaov; 
-      &#8594; Chechens;
-      &#8594; Avars;
-      &#8594; Shamil;
-      &#8594; Leo Tolstoy;
-      &#8594; [Hadji Murad](http://www.online-literature.com/tolstoy/hadji-murad/1/).
+      &#8594; Circassians;<br>
+      &#8594; Shaov;<br>
+      &#8594; Chechens;<br>
+      &#8594; Avars;<br>
+      &#8594; Shamil;<br>
+      &#8594; Leo Tolstoy; <a href="http://www.online-literature.com/tolstoy/hadji-murad/1/">Hadji Murad</a>.
    </div>
 </details>
 
@@ -90,6 +89,7 @@ HW
 <details>
    <summary>The Charge of the Light Brigade by ALFRED, LORD TENNYSON (1854)</summary>
    <div>
+   <p>
       ```
       I
       Half a league, half a league,
@@ -100,6 +100,9 @@ HW
       Charge for the guns!” he said.
       Into the valley of Death
          Rode the six hundred.
+      ```
+   </p>
+      ```
 
       II
       “Forward, the Light Brigade!”
