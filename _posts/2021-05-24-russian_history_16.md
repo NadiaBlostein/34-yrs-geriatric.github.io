@@ -108,45 +108,45 @@ HW
          Rode the six hundred.<br>
    </p>
    <p>
-      II
-      “Forward, the Light Brigade!”
-      Was there a man dismayed?
-      Not though the soldier knew
-         Someone had blundered.
-         Theirs not to make reply,
-         Theirs not to reason why,
-         Theirs but to do and die.
-         Into the valley of Death
-         Rode the six hundred.
+      II<br>
+      “Forward, the Light Brigade!”<br>
+      Was there a man dismayed?<br>
+      Not though the soldier knew<br>
+         Someone had blundered.<br>
+         Theirs not to make reply,<br>
+         Theirs not to reason why,<br>
+         Theirs but to do and die.<br>
+         Into the valley of Death<br>
+         Rode the six hundred.<br>
    </p>
    <p>
-      III
-      Cannon to right of them,
-      Cannon to left of them,
-      Cannon in front of them
-         Volleyed and thundered;
-      Stormed at with shot and shell,
-      Boldly they rode and well,
-      Into the jaws of Death,
-      Into the mouth of hell
-         Rode the six hundred.
+      III<br>
+      Cannon to right of them,<br>
+      Cannon to left of them,<br>
+      Cannon in front of them<br>
+         Volleyed and thundered;<br>
+      Stormed at with shot and shell,<br>
+      Boldly they rode and well,<br>
+      Into the jaws of Death,<br>
+      Into the mouth of hell<br>
+         Rode the six hundred.<br>
    </p>
    <p>
-      IV
-      Flashed all their sabres bare,
-      Flashed as they turned in air
-      Sabring the gunners there,
-      Charging an army, while
-         All the world wondered.
-      Plunged in the battery-smoke
-      Right through the line they broke;
-      Cossack and Russian
-      Reeled from the sabre stroke
-         Shattered and sundered.
-      Then they rode back, but not
-         Not the six hundred.
+      IV<br>
+      Flashed all their sabres bare,<br>
+      Flashed as they turned in air<br>
+      Sabring the gunners there,<br>
+      Charging an army, while<br>
+         All the world wondered.<br>
+      Plunged in the battery-smoke<br>
+      Right through the line they broke;<br>
+      Cossack and Russian<br>
+      Reeled from the sabre stroke<br>
+         Shattered and sundered.<br>
+      Then they rode back, but not<br>
+         Not the six hundred.<br>
    </p>
-   <p>
+   <!-- <p>
       V
       Cannon to right of them,
       Cannon to left of them,
@@ -168,25 +168,29 @@ HW
       Honour the charge they made!
       Honour the Light Brigade,
          Noble six hundred!
-   </p>
+   </p> -->
    </div>
 </details>
 <br>
 
 # Supplementary  IV. Literature (1800—1825)
 
-### Alexander Pushkin (1799—1837), “Our Everything”
+<details>
+<summary>Alexander Pushkin (1799—1837), “Our Everything”</summary>
 
-<img src="{{ site.baseurl }}/assets/images/poetry-pushkin.png"/>
-* Pushkin’s granddad: Abraham Ganibal, Peter the Great’s Blackamoor (reminder: Lecture No. 9)
-* Arína Rodiónovna, the beloved nanny
-* Lyceum (reminder: Derzhavin, Lecture No. 5)
-* Multiple exiles
-* Decembrists
-<img src="{{ site.baseurl }}/assets/images/2021-05-24-img_08.jpg" title="A drawing by Pushkin — the portraits of the five Decembrists who were executed; the caption: 'I could be hanging as well, as a bufoon…'"/>
-<img src="{{ site.baseurl }}/assets/images/2021-05-24-img_09.jpg" title="Pushkin’s wife: Natalya Goncharova"/>
+   <img src="{{ site.baseurl }}/assets/images/poetry-pushkin.png"/>
+   <details>
+      &#8594; Pushkin’s granddad: Abraham Ganibal, Peter the Great’s Blackamoor (reminder: Lecture No. 9)<br>
+      &#8594; Arína Rodiónovna, the beloved nanny<br>
+      &#8594; Lyceum (reminder: Derzhavin, Lecture No. 5)<br>
+      &#8594; Multiple exiles<br>
+      &#8594; Decembrists<br>
+   </details>
+   <img src="{{ site.baseurl }}/assets/images/2021-05-24-img_08.jpg" title="A drawing by Pushkin — the portraits of the five Decembrists who were executed; the caption: 'I could be hanging as well, as a bufoon…'"/>
+   <img src="{{ site.baseurl }}/assets/images/2021-05-24-img_09.jpg" title="Pushkin’s wife: Natalya Goncharova"/>
 
-* Duel and death (January 1837)
+   * Duel and death (January 1837)
+</details>
 
 **A poem by Alexander Pushkin: “I loved you”.**
 <div style="display: flex; justify-content: space-between;">
