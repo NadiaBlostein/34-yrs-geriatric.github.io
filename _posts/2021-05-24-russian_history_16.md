@@ -96,7 +96,10 @@ HW
 <details>
    <summary style="font-size: 18; font-weight: bold;">The Charge of the Light Brigade by ALFRED, LORD TENNYSON (1854)</summary>
    <div>
-   <p>
+   Hello World
+   </div>
+</details>
+   <!-- <p>
       I<br>
       Half a league, half a league,<br>r
       Half a league onward,<b>
@@ -164,8 +167,9 @@ HW
       Honour the Light Brigade,<br>
          Noble six hundred!<br>
    </div>
-</details>
+</details> -->
 
+<!-- 
 # Supplementary  IV. Literature (1800—1825)
 
 <!-- <details>
@@ -222,6 +226,6 @@ HW
 * “The History of Pugachëv”
 * “The Blackamoor of Peter the Great” (Rus. noun ARAP means ‘Negro’; ARAB is ‘Arab’). -->
 
-# Lecture Transcript
+<!-- # Lecture Transcript
 
-# References.
+# References. -->
