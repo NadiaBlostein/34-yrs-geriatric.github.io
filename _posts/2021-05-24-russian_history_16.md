@@ -165,11 +165,10 @@ HW
          Noble six hundred!<br>
    </div>
 </details>
-<br>
 
 # Supplementary  IV. Literature (1800—1825)
 
-<details>
+<!-- <details>
 <summary>Alexander Pushkin (1799—1837), “Our Everything”</summary>
 
    <img src="{{ site.baseurl }}/assets/images/poetry-pushkin.png"/>
@@ -221,7 +220,7 @@ HW
 * “Little Tragedies”: “Faust” & “Egyptian Nights”: https://www.youtube.com/watch?v=1Ke33_1de_Y
 **History**
 * “The History of Pugachëv”
-* “The Blackamoor of Peter the Great” (Rus. noun ARAP means ‘Negro’; ARAB is ‘Arab’).
+* “The Blackamoor of Peter the Great” (Rus. noun ARAP means ‘Negro’; ARAB is ‘Arab’). -->
 
 # Lecture Transcript
 
