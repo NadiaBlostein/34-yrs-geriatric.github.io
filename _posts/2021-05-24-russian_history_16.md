@@ -106,8 +106,7 @@ HW
       Charge for the guns!” he said.<br>
       Into the valley of Death<br>
          Rode the six hundred.<br>
-   </p>
-   <p>
+      <br>
       II<br>
       “Forward, the Light Brigade!”<br>
       Was there a man dismayed?<br>
@@ -118,8 +117,7 @@ HW
          Theirs but to do and die.<br>
          Into the valley of Death<br>
          Rode the six hundred.<br>
-   </p>
-   <p>
+      <br>
       III<br>
       Cannon to right of them,<br>
       Cannon to left of them,<br>
@@ -130,8 +128,7 @@ HW
       Into the jaws of Death,<br>
       Into the mouth of hell<br>
          Rode the six hundred.<br>
-   </p>
-   <p>
+      <br>
       IV<br>
       Flashed all their sabres bare,<br>
       Flashed as they turned in air<br>
@@ -145,30 +142,27 @@ HW
          Shattered and sundered.<br>
       Then they rode back, but not<br>
          Not the six hundred.<br>
-   </p>
-   <!-- <p>
-      V
-      Cannon to right of them,
-      Cannon to left of them,
-      Cannon behind them
-         Volleyed and thundered;
-      Stormed at with shot and shell,
-      While horse and hero fell.
-      They that had fought so well
-      Came through the jaws of Death,
-      Back from the mouth of hell,
-      All that was left of them,
-         Left of six hundred.
-   </p>
-   <p>
-      VI
-      When can their glory fade?
-      O the wild charge they made!
-         All the world wondered.
-      Honour the charge they made!
-      Honour the Light Brigade,
-         Noble six hundred!
-   </p> -->
+      <br>
+      V<br>
+      Cannon to right of them,<br>
+      Cannon to left of them,<br>
+      Cannon behind them<br>
+         Volleyed and thundered;<br>
+      Stormed at with shot and shell,<br>
+      While horse and hero fell.<br>
+      They that had fought so well<br>
+      Came through the jaws of Death,<br>
+      Back from the mouth of hell,<br>
+      All that was left of them,<br>
+         Left of six hundred.<br>
+      <br>
+      VI<br>
+      When can their glory fade?<br>
+      O the wild charge they made!<br>
+         All the world wondered.<br>
+      Honour the charge they made!<br>
+      Honour the Light Brigade,<br>
+         Noble six hundred!<br>
    </div>
 </details>
 <br>
