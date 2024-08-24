@@ -115,22 +115,8 @@ HW
          Theirs not to reason why,<br>
          Theirs but to do and die.<br>
          Into the valley of Death<br>
-         Rode the six hundred.
-   </div>
-</details>
-   <!-- <p>
-      <br>
-      II<br>
-      “Forward, the Light Brigade!”<br>
-      Was there a man dismayed?<br>
-      Not though the soldier knew<br>
-         Someone had blundered.<br>
-         Theirs not to make reply,<br>
-         Theirs not to reason why,<br>
-         Theirs but to do and die.<br>
-         Into the valley of Death<br>
          Rode the six hundred.<br>
-      <br>
+         <br>
       III<br>
       Cannon to right of them,<br>
       Cannon to left of them,<br>
@@ -177,15 +163,17 @@ HW
       Honour the Light Brigade,<br>
          Noble six hundred!<br>
    </div>
-</details> -->
+</details>
 
-<!-- 
 # Supplementary  IV. Literature (1800—1825)
 
-<!-- <details>
-<summary>Alexander Pushkin (1799—1837), “Our Everything”</summary>
+<details>
+<summary style="font-size: 18; font-weight: bold;">Alexander Pushkin (1799—1837), “Our Everything”</summary>
+<img src="{{ site.baseurl }}/assets/images/poetry-pushkin.png"/>
+</details>
 
-   <img src="{{ site.baseurl }}/assets/images/poetry-pushkin.png"/>
+<!-- <details>
+
    <details>
       &#8594; Pushkin’s granddad: Abraham Ganibal, Peter the Great’s Blackamoor (reminder: Lecture No. 9)<br>
       &#8594; Arína Rodiónovna, the beloved nanny<br>
