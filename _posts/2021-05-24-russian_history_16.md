@@ -164,27 +164,33 @@ HW
          Noble six hundred!<br>
    </div>
 </details>
+<br>
 
 # Supplementary  IV. Literature (1800—1825)
 
 <details>
 <summary style="font-size: 18; font-weight: bold;">Alexander Pushkin (1799—1837), “Our Everything”</summary>
 <img src="{{ site.baseurl }}/assets/images/poetry-pushkin.png"/>
+   &#8594; Pushkin’s granddad: Abraham Ganibal, Peter the Great’s Blackamoor (reminder: Lecture No. 9)<br>
+   &#8594; Arína Rodiónovna, the beloved nanny<br>
+   &#8594; Lyceum (reminder: Derzhavin, Lecture No. 5)<br>
+   &#8594; Multiple exiles<br>
+   &#8594; Decembrists<br>
+   &#8594; Duel and death (January 1837) <br>
+   <figure style="text-align: center;">
+    <img src="{{ site.baseurl }}/assets/images/2021-05-24-img_08.jpg" 
+         style="width: 45%;"/>
+      <figcaption>5 Decembrists who were executed, drawn by Pushkin with the caption: 'I could be hanging as well, as a bufoon…'</figcaption>
+  </figure>
+   <figure style="text-align: center;">
+    <img src="{{ site.baseurl }}/assets/images/2021-05-24-img_09.jpg" 
+         style="width: 45%;"/>
+      <figcaption>Pushkin’s wife: Natalya Goncharova</figcaption>
+  </figure>
 </details>
 
 <!-- <details>
 
-   <details>
-      &#8594; Pushkin’s granddad: Abraham Ganibal, Peter the Great’s Blackamoor (reminder: Lecture No. 9)<br>
-      &#8594; Arína Rodiónovna, the beloved nanny<br>
-      &#8594; Lyceum (reminder: Derzhavin, Lecture No. 5)<br>
-      &#8594; Multiple exiles<br>
-      &#8594; Decembrists<br>
-   </details>
-   <img src="{{ site.baseurl }}/assets/images/2021-05-24-img_08.jpg" title="A drawing by Pushkin — the portraits of the five Decembrists who were executed; the caption: 'I could be hanging as well, as a bufoon…'"/>
-   <img src="{{ site.baseurl }}/assets/images/2021-05-24-img_09.jpg" title="Pushkin’s wife: Natalya Goncharova"/>
-
-   * Duel and death (January 1837)
 </details>
 
 **A poem by Alexander Pushkin: “I loved you”.**
