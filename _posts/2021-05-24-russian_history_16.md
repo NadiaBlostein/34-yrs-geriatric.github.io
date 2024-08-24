@@ -97,14 +97,14 @@ HW
    <summary style="font-size: 18; font-weight: bold;">The Charge of the Light Brigade by ALFRED, LORD TENNYSON (1854)</summary>
    <div>
       I<br>
-      Half a league, half a league,<br>r
+      Half a league, half a league,<br>
       Half a league onward,<b>
       All in the valley of Death<br>
          Rode the six hundred.<br>
       “Forward, the Light Brigade!<br>
       Charge for the guns!” he said.<br>
       Into the valley of Death<br>
-         Rode the six hundred.<br>
+         Rode the six hundred.
    </div>
 </details>
    <!-- <p>
