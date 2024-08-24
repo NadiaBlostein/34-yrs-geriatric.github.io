@@ -98,7 +98,7 @@ HW
    <div>
       I<br>
       Half a league, half a league,<br>
-      Half a league onward,<b>
+      Half a league onward,<br>
       All in the valley of Death<br>
          Rode the six hundred.<br>
       “Forward, the Light Brigade!<br>
@@ -108,15 +108,6 @@ HW
    </div>
 </details>
    <!-- <p>
-      I<br>
-      Half a league, half a league,<br>r
-      Half a league onward,<b>
-      All in the valley of Death<br>
-         Rode the six hundred.<br>
-      “Forward, the Light Brigade!<br>
-      Charge for the guns!” he said.<br>
-      Into the valley of Death<br>
-         Rode the six hundred.<br>
       <br>
       II<br>
       “Forward, the Light Brigade!”<br>
