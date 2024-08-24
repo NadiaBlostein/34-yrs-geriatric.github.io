@@ -1,7 +1,7 @@
 ---
 layout: post
 past: true
-time: "20:00:00"
+time: "20:00:00 EST"
 title:  "Russian History 14"
 categories: [ history ]
 image: assets/images/cover-default-01A.jpg

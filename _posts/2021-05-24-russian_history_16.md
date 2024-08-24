@@ -1,7 +1,7 @@
 ---
 layout: post
 past: true
-time: "20:00:00"
+time: "20:00:00 EST"
 title:  "Russian History 16"
 categories: [ history ]
 image: assets/images/cover-default-02B.jpg
@@ -104,6 +104,17 @@ HW
       “Forward, the Light Brigade!<br>
       Charge for the guns!” he said.<br>
       Into the valley of Death<br>
+         Rode the six hundred.<br>
+      <br>
+      II<br>
+      “Forward, the Light Brigade!”<br>
+      Was there a man dismayed?<br>
+      Not though the soldier knew<br>
+         Someone had blundered.<br>
+         Theirs not to make reply,<br>
+         Theirs not to reason why,<br>
+         Theirs but to do and die.<br>
+         Into the valley of Death<br>
          Rode the six hundred.
    </div>
 </details>

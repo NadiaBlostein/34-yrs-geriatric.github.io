@@ -1,7 +1,7 @@
 ---
 layout: post
 past: true
-time: "20:00:00"
+time: "20:00:00 EST"
 title:  "History 1: Before Christianity"
 categories: [ history ]
 image: assets/images/cover-default-01B.jpg
