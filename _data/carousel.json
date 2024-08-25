@@ -2,46 +2,46 @@
       {
             "image": "poetry-akhmatova",
             "label": "Ахматова",
-            "color": "#8f9c95"
+            "color": "#7b8581"
       },
       {
             "image": "poetry-bulgakov",
             "label": "Булгаков",
-            "color": "#eeddaa"
+            "color": "#925b3b"
       },
       {
             "image": "poetry-esenin",
             "label": "Есенин",
-            "color": "#8f9c95"
+            "color": "#7b8581"
       },
       {
             "image": "poetry-griboyedov",
             "label": "Грибоедов",
-            "color": "#eeddaa"
+            "color": "#925b3b"
       },
       {
             "image": "poetry-krylov",
             "label": "Крыловv",
-            "color": "#8f9c95"
+            "color": "#7b8581"
       },
       {
             "image": "poetry-mandelshtam",
             "label": "Мандельштам",
-            "color": "#eeddaa"
+            "color": "#925b3b"
       },
       {
             "image": "poetry-pushkin",
             "label": "Пушкин",
-            "color": "#8f9c95"
+            "color": "#7b8581"
       },
       {
             "image": "poetry-tsvetaeva",
             "label": "Цветаева",
-            "color": "#eeddaa"
+            "color": "#7b8581"
       },
       {
             "image": "poetry-zabolotsky",
             "label": "Заболоцкий",
-            "color": "#8f9c95"
+            "color": "#925b3b"
       }
 ]

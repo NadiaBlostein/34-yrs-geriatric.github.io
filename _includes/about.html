@@ -9,7 +9,7 @@
                 <!-- Section header -->
                 <div class="section-header text-center">
                     <p style="font-size:36px; font-weight: bold; color:black; padding-bottom:10px;">Welcome to Igor & Lidija's 
-                        <span style="color:white; background-color: #8f9c95;opacity: 0.9;">R</span><span style="color:white; background-color: #895151;;opacity: 0.9;">U</span><span style="color:white; background-color: #8f9c95;opacity: 0.9;">S</span><span style="color:white; background-color: #82543e;;opacity: 0.9;">S</span><span style="color:white; background-color: #8f9c95;opacity: 0.9;">I</span><span style="color:white; background-color: #82543e;;opacity: 0.9;">A</span> 
+                        <span style="color:white; background-color: #8f9c95;opacity: 0.9;">R</span><span style="color:white; background-color: #895151;;opacity: 0.9;">U</span><span style="color:white; background-color: #8f9c95;opacity: 0.9;">S</span><span style="color:white; background-color: #895151;;opacity: 0.9;">S</span><span style="color:white; background-color: #8f9c95;opacity: 0.9;">I</span><span style="color:white; background-color: #895151;;opacity: 0.9;">A</span> 
                     </p>
                     <p>
                         <h3 style="text-align: center; color:#868F9B">Ongoing seminars on Igor Mel'čuk and Lidija Iordanskaja's (almost) 2 centuries' worth of knowledge.</h2>
@@ -21,10 +21,9 @@
               <!-- about -->
               <div class="col-md-6">
                   <div class="about">
-                      <i class="fa fa-calendar-o" style="color:#82543e"></i>
+                      <i class="fa fa-calendar-o" style="color:#925b3b"></i>
                       <h3>We’re Back!</h3>
                       <p>Initiated during the 2020 pandemic, my grandparents' virtual seminars are now resuming where they left off in 2021. The bi-weekly lectures will alternate between discussions on Russian poets and topics in linguistics. For those of you who do not know Igor, he is unbelievably eager to impart his decades’ worth of knowledge to you.</p>
-                      <a href="https://igor-and-lidijas-russia.github.io/test2.io/history.html"> Read more </a>
                   </div>
               </div>
               <!-- /about -->
@@ -32,10 +31,9 @@
               <!-- about -->
               <div class="col-md-6">
                   <div class="about">
-                      <i class="fa fa-paint-brush" style="color:#82543e"></i>
+                      <i class="fa fa-paint-brush" style="color:#925b3b"></i>
                       <h3>The Art of Storytelling</h3>
-                      <p>Although not a historian by training, Igor Mel'čuk is a world-class linguist who also just so happens to be a world-class story teller. His wife and lifelong colleague – Lidija Iordanskaja – will be diligently by his side to ensure that he does not stave too far from history into the realm of myth.</p>
-                  <a href="https://igor-and-lidijas-russia.github.io/test2.io/poetry.html"> Read more </a>
+                      <p>Although not a historian by training, Igor Mel'čuk is a world-class linguist who also just so happens to be a world-class story teller. His wife and lifelong colleague – Lidija Iordanskaja – will be diligently by his side to ensure that he does not stave too far from history into the realm of myth.<br></p>
                   </div>
               </div>
               <!-- /about -->
@@ -66,30 +64,25 @@
             {%- for post in site.posts -%}
               {% if post.past == true %}
                 <div class="row">
-                    <div class='card-left'>
-                      <div class='card-image'>
-                        <img src={{post.image}}>
-                      </div>
-                      <div class='card-text' style="text-align: left;">
-                        <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-default" style="text-align: left; display: block;">
-                          {{post.date | date: "%-d %B %Y"}}<br>
-                          {{post.time}}<br>
-                          {{post.title}}<br>
-                        </a>
-                      </div>
+                  {% assign card_class = forloop.index | modulo: 2 == 0 ? 'card-right' : 'card-left' %}
+                  <div class="{{ card_class }}">
+                    <div class='card-image'>
+                      <img src="{{ post.image }}">
                     </div>
+                    <div class='card-text' style="text-align: left;">
+                      <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-default" style="text-align: left; display: block; color:#895151;">
+                        {{ post.date | date: "%-d %B %Y" }}<br>
+                        {{ post.time }}<br>
+                        {{ post.title }}<br>
+                      </a>
+                    </div>
+                  </div>
                 </div>
               {% endif %}
             {%- endfor -%}
-            
-                <!-- /about -->
-
-
-            
+            <!-- /about -->
             <!-- /Row -->
-
         </div>
         <!-- /Container -->
-
     </div>
-    <!-- /About -->
+<!-- /About -->

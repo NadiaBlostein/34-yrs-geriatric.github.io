@@ -81,7 +81,7 @@
 }
 .fr-popup .fr-color-hex-layer .fr-action-buttons button {
   background-color: #1e88e5;
-  color: #FFF;
+  color: #e8dabb;
   border-radius: 2px;
   -moz-border-radius: 2px;
   -webkit-border-radius: 2px;
@@ -93,7 +93,7 @@
 }
 .fr-popup .fr-color-hex-layer .fr-action-buttons button:hover {
   background-color: #166dba;
-  color: #FFF;
+  color: #e8dabb;
 }
 .fr-popup .fr-separator + .fr-colors-tabs {
   -webkit-box-shadow: none;

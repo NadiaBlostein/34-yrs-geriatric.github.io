@@ -32,14 +32,14 @@ HW
   <figure style="text-align: center;">
     <img src="{{ site.baseurl }}/assets/images/2021-05-24-img_01.jpg" 
          style="width: 45%;"/>
-      <figcaption>Pushkin’s 'Journey to Erzurum'</figcaption>
+      <figcaption><i>Pushkin’s 'Journey to Erzurum'</i></figcaption>
   </figure>
 </details>
 <br>
 
 <details>
    <summary style="font-size: 18; font-weight: bold;">The Polish Uprising (1830-1831).</summary>
-   <figure style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_02.jpg" style="width: 45%;"/></div><figcaption>Russia is the policeman of Europe.</figcaption>
+   <figure style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_02.jpg" style="width: 45%;"/></div><figcaption><i>Russia is the policeman of Europe.</i></figcaption>
    </figure>
 <div>
    &#8594;  Karolina Sobańska: Secretary to Count General de Witt, her official lover: both agents of the Russian secret police! Her sister, Evelina Gańska, later married Balzac. <br>
@@ -56,7 +56,7 @@ HW
       &#8594; Sandor Petőfi (blowing up of his statue in Bratislava in 1919; finding of his skeleton in 1990 in Siberia)<br>
       &#8594; [Arminius Vambéry](https://www.gutenberg.org/files/40163/40163-h/40163-h.htm)
    <figure style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_03.jpg" style="height: 20%;"/><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_04.jpg" style="height: 20%;"/></figure>
-   <figure style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_05.jpg" style="width: 30%;"/><figcaption>Vámbéry’s journey to Bukhara (as Raşit Efendi).</figcaption></figure>
+   <figure style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_05.jpg" style="width: 30%;"/><figcaption><i>Vámbéry’s journey to Bukhara (as Raşit Efendi).</i></figcaption></figure>
 </details>
 <br>
 
@@ -79,7 +79,7 @@ HW
 
 <details>
    <summary style="font-size: 18; font-weight: bold;">The Siege of Sebastopol (1854-1855).</summary>
-   <figure style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_07.jpg" style="width: 30%;"/><figcaption>Montreal, Place du Canada: one of the Russian guns seized by the British troops in Sebastopol.</figcaption></figure>
+   <figure style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_07.jpg" style="width: 30%;"/><figcaption><i>Montreal, Place du Canada: one of the Russian guns seized by the British troops in Sebastopol.</i></figcaption></figure>
 </details>
 <br>
 
@@ -170,7 +170,7 @@ HW
 
 <details>
 <summary style="font-size: 18; font-weight: bold;">Alexander Pushkin (1799—1837), “Our Everything”</summary>
-<img src="{{ site.baseurl }}/assets/images/poetry-pushkin.png"/>
+<img src="{{ site.baseurl }}/assets/images/poetry-pushkin.png" style="width: 30%;"/><br>
    &#8594; Pushkin’s granddad: Abraham Ganibal, Peter the Great’s Blackamoor (reminder: Lecture No. 9)<br>
    &#8594; Arína Rodiónovna, the beloved nanny<br>
    &#8594; Lyceum (reminder: Derzhavin, Lecture No. 5)<br>
@@ -180,13 +180,16 @@ HW
    <figure style="text-align: center;">
     <img src="{{ site.baseurl }}/assets/images/2021-05-24-img_08.jpg" 
          style="width: 45%;"/>
-      <figcaption>5 Decembrists who were executed, drawn by Pushkin with the caption: 'I could be hanging as well, as a bufoon…'</figcaption>
+      <figcaption><i><i>5 Decembrists who were executed, drawn by Pushkin with the caption: 'I could be hanging as well, as a bufoon…'</i></figcaption></i>
   </figure>
    <figure style="text-align: center;">
     <img src="{{ site.baseurl }}/assets/images/2021-05-24-img_09.jpg" 
          style="width: 45%;"/>
-      <figcaption>Pushkin’s wife: Natalya Goncharova</figcaption>
-  </figure>
+      <figcaption><i>Pushkin’s wife: Natalya Goncharova</figcaption></i>
+   </figure>
+   <details>
+      <summary>hi</summary>
+   </details>
 </details>
 
 <!-- <details>
