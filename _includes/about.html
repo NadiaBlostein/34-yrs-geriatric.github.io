@@ -64,7 +64,7 @@
             {%- for post in site.posts -%}
             {% if post.past == true %}
               <div class="row">
-                {% if forloop.index | modulo: 2 == 0 %}
+                {% if forloop.index0 | modulo: 2 == 0 %}
                   <div class="card-right">
                 {% else %}
                   <div class="card-left">
