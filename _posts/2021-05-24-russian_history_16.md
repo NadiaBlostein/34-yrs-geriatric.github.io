@@ -12,18 +12,18 @@ hidden: false
 
 # Summary
 
-HW
+Pending!
 
 # I. Interventions abroad 
 
 <details>
-   <summary style="font-size: 18; font-weight: bold;">The Persian War (1826-1828).</summary>
+   <summary>The Persian War (1826-1828).</summary>
       &#8594;  Griboyedov.
 </details>
 <br>
 
 <details>
-  <summary style="font-size: 18; font-weight: bold;">The Turkish War (1828-1829).</summary>
+  <summary>The Turkish War (1828-1829).</summary>
 <div>
    &#8594; The Greek-Turkish war of national liberation;<br>
    &#8594; Lord Byron;<br>
@@ -38,8 +38,8 @@ HW
 <br>
 
 <details>
-   <summary style="font-size: 18; font-weight: bold;">The Polish Uprising (1830-1831).</summary>
-   <figure style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_02.jpg" style="width: 45%;"/></div><figcaption><i>Russia is the policeman of Europe.</i></figcaption>
+   <summary>The Polish Uprising (1830-1831).</summary>
+   <figure style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_02.jpg" style="width: 45%;"/><figcaption><i>Russia is the policeman of Europe.</i></figcaption>
    </figure>
 <div>
    &#8594;  Karolina Sobańska: Secretary to Count General de Witt, her official lover: both agents of the Russian secret police! Her sister, Evelina Gańska, later married Balzac. <br>
@@ -50,7 +50,7 @@ HW
 <br>
 
 <details>
-   <summary style="font-size: 18; font-weight: bold;">The Hungarian Uprising (1848-1849).</summary>
+   <summary>The Hungarian Uprising (1848-1849).</summary>
       &#8594; Nicolas I sent in an army 280 000 strong.<br>
       &#8594; 13 martyrs hanged.<br>
       &#8594; Sandor Petőfi (blowing up of his statue in Bratislava in 1919; finding of his skeleton in 1990 in Siberia)<br>
@@ -63,7 +63,7 @@ HW
 # II. The Caucasian War (1817 – 1859)
 <div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_06.jpg" style="width: 30%"/></div>
 <details>
-   <summary style="font-size: 18; font-weight: bold;">Key Words.</summary>
+   <summary>Key Words.</summary>
    <div>
       &#8594; Circassians;<br>
       &#8594; Shaov;<br>
@@ -78,13 +78,13 @@ HW
 # III. The Crimean War (1854 – 1856)
 
 <details>
-   <summary style="font-size: 18; font-weight: bold;">The Siege of Sebastopol (1854-1855).</summary>
+   <summary>The Siege of Sebastopol (1854-1855).</summary>
    <figure style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_07.jpg" style="width: 30%;"/><figcaption><i>Montreal, Place du Canada: one of the Russian guns seized by the British troops in Sebastopol.</i></figcaption></figure>
 </details>
 <br>
 
 <details>
-   <summary style="font-size: 18; font-weight: bold;">Death of Nicolas I (1855).</summary>
+   <summary>Death of Nicolas I (1855).</summary>
    <div>
       &#8594; Probable suicide;<br>
       &#8594; Nicolas I's personal doctor left Russia immediately;<br>
@@ -94,7 +94,7 @@ HW
 <br>
 
 <details>
-   <summary style="font-size: 18; font-weight: bold;">The Charge of the Light Brigade by ALFRED, LORD TENNYSON (1854)</summary>
+   <summary>The Charge of the Light Brigade by ALFRED, LORD TENNYSON (1854)</summary>
    <div>
       I<br>
       Half a league, half a league,<br>
@@ -169,7 +169,7 @@ HW
 # Supplementary  IV. Literature (1800—1825)
 
 <details>
-<summary style="font-size: 18; font-weight: bold;">Alexander Pushkin (1799—1837), “Our Everything”</summary>
+<summary>Alexander Pushkin (1799—1837), “Our Everything”</summary>
 <img src="{{ site.baseurl }}/assets/images/poetry-pushkin.png" style="width: 30%;"/><br>
    &#8594; Pushkin’s granddad: Abraham Ganibal, Peter the Great’s Blackamoor (reminder: Lecture No. 9)<br>
    &#8594; Arína Rodiónovna, the beloved nanny<br>
@@ -179,16 +179,19 @@ HW
    &#8594; Duel and death (January 1837) <br>
    <figure style="text-align: center;">
     <img src="{{ site.baseurl }}/assets/images/2021-05-24-img_08.jpg" 
-         style="width: 45%;"/>
-      <figcaption><i><i>5 Decembrists who were executed, drawn by Pushkin with the caption: 'I could be hanging as well, as a bufoon…'</i></figcaption></i>
+         style="width: 30%;"/>
+      <figcaption><i>5 Decembrists who were executed, drawn by Pushkin with the caption: 'I could be hanging as well, as a bufoon…'</i></figcaption>
   </figure>
    <figure style="text-align: center;">
     <img src="{{ site.baseurl }}/assets/images/2021-05-24-img_09.jpg" 
-         style="width: 45%;"/>
-      <figcaption><i>Pushkin’s wife: Natalya Goncharova</figcaption></i>
+         style="width: 30%;"/>
+      <figcaption><i>Pushkin’s wife: Natalya Goncharova</i></figcaption>
    </figure>
    <details>
       <summary>hi</summary>
+      <div>
+         Poem
+      </div>
    </details>
 </details>
 
