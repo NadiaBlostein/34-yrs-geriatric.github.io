@@ -62,10 +62,13 @@
 
             <h3>Previous Lectures</h3>
             {%- for post in site.posts -%}
-              {% if post.past == true %}
-                <div class="row">
-                  {% assign card_class = forloop.index | modulo: 2 == 0 ? 'card-right' : 'card-left' %}
-                  <div class="{{ card_class }}">
+            {% if post.past == true %}
+              <div class="row">
+                {% if forloop.index | modulo: 2 == 0 %}
+                  <div class="card-right">
+                {% else %}
+                  <div class="card-left">
+                {% endif %}
                     <div class='card-image'>
                       <img src="{{ post.image }}">
                     </div>
@@ -77,9 +80,9 @@
                       </a>
                     </div>
                   </div>
-                </div>
-              {% endif %}
-            {%- endfor -%}
+              </div>
+            {% endif %}
+          {%- endfor -%}          
             <!-- /about -->
             <!-- /Row -->
         </div>
