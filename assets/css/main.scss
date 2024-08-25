@@ -58,6 +58,7 @@ $cornerRadius: $gridSize/2.1;
   font-size: 16px;
   border-radius: 4px;
   background-color: antiquewhite;
+  box-sizing: border-box;
 }
 
 .poem div:first-child {
