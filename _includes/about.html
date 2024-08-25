@@ -63,8 +63,9 @@
             <h3>Previous Lectures</h3>
             {%- for post in site.posts -%}
             {% if post.past == true %}
+              {% assign mod = forloop.index | modulo: 2 %}
               <div class="row">
-                {% if forloop.index0 | modulo: 2 == 0 %}
+                {% if mod == 0 %}
                   <div class="card-right">
                 {% else %}
                   <div class="card-left">
