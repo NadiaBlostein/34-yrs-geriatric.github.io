@@ -42,22 +42,27 @@
             <!-- Schedule -->
             <h3>Upcoming Lectures</h3>
             {%- for post in site.posts -%}
-              {% if post.past == false %}
-                <div class="row">
-                    <div class='card-left'>
-                      <div class='card-image'>
-                        <img src='assets/images/2020-10-07-1956_igor.jpg'>
-                      </div>
-                      <div class='card-text' style="text-align: left;">
-                        <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-primary"></a>
-                          <p>{{post.date | date: "%-d %B %Y"}}</p>
-                          <p>{{post.time}}</p>
-                          <p>{{post.title}}</p>
-                        </a>
-                      </div>
+            {% if post.past == false %}
+              {% assign mod = forloop.index | modulo: 2 %}
+              <div class="row">
+                {% if mod == 0 %}
+                  <div class="card-right">
+                {% else %}
+                  <div class="card-left">
+                {% endif %}
+                    <div class='card-image'>
+                      <img src="{{ post.image }}">
                     </div>
-                </div>
-              {% endif %}
+                    <div class='card-text' style="text-align: left;">
+                      <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-default" style="text-align: left; display: block; color:#895151;">
+                        {{ post.date | date: "%-d %B %Y" }}<br>
+                        {{ post.time }}<br>
+                        {{ post.title }}<br>
+                      </a>
+                    </div>
+                  </div>
+              </div>
+            {% endif %}
             {%- endfor -%}
 
             <h3>Previous Lectures</h3>
@@ -83,7 +88,7 @@
                   </div>
               </div>
             {% endif %}
-          {%- endfor -%}          
+            {%- endfor -%}          
             <!-- /about -->
             <!-- /Row -->
         </div>
