@@ -2,7 +2,7 @@
 Theme Name:
 Author: yaminncco
  Colors:
-	Body 		  : #868F9B
+	Body 		  : #5f362e
 	Headers 	: #10161A
 	Primary 	: #6195FF
 	Dark      : #FCFCFF
@@ -68,7 +68,7 @@ overflow: hidden;
     font-size: 14px;
     line-height: 1.6;
     overflow-x: hidden;
-    color: #868F9B;
+    color: #5f362e;
 }
  h1, h2, h3, h4, h5, h6 {
     font-family: 'Montserrat', sans-serif;
@@ -712,10 +712,10 @@ overflow: hidden;
     margin-bottom: 0px;
 }
  .header-wrapper .breadcrumb .breadcrumb-item.active {
-    color: #868F9B;
+    color: #5f362e;
 }
  .breadcrumb>li+li:before {
-    color: #868F9B;
+    color: #5f362e;
 }
  /*------------------------------------*\
 	About
@@ -1236,7 +1236,7 @@ overflow: hidden;
     font-size: 12px;
     margin-left: 20px;
     font-weight: 400;
-    color: #868F9B;
+    color: #5f362e;
 }
  .blog-comments .media .media-body .media-heading .reply {
     float: right;
