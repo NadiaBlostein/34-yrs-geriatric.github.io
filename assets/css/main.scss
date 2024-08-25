@@ -37,6 +37,39 @@ $cornerRadius: $gridSize/2.1;
 //   justify-content: center;
 // }
 
+.poem {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.poem p {
+  white-space: pre-line;
+}
+
+.poem div {
+  flex: 1;
+  padding: 10px;
+  margin: 0 10px;
+  border: 1px solid black;
+  font-size: 16px;
+  border-radius: 4px;
+  background-color: antiquewhite;
+}
+
+.poem div:first-child {
+  margin-right: 10px;
+  margin-left: 0;
+}
+
+.poem div:last-child {
+  margin-left: 10px;
+  margin-right: 0;
+}
+
 .figcaption {
   font-size: 10;
   font-style: italic;

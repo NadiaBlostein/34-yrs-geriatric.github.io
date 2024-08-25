@@ -187,34 +187,34 @@ Pending!
    <figure style="text-align: center;">
     <img src="{{ site.baseurl }}/assets/images/2021-05-24-img_09.jpg" 
          style="width: 30%;"/>
-      <figcaption style="font-size: 10;"><i>Pushkin’s wife: Natalya Goncharova</figcaption>
+      <figcaption>Pushkin’s wife: Natalya Goncharova</figcaption>
    </figure>
    <details>
       <summary>A poem by Alexander Pushkin: “I loved you”.</summary>
-      <div style="display: flex; justify-content: space-between;">
-         <div style="flex: 1; padding: 10px; margin-right: 10px; border: 1px solid #ccc; font-size: 16px">
-            <p>Я вас любил: любовь ещё, быть может,<br>
-               В душе моей угасла не совсем;<br>
-               Но пусть она вас больше не тревожит;<br>
-               Я не хочу печалить вас ничем.<br>
-               Я вас любил безмолвно, безнадежно,<br>
-               То робостью, то ревностью томим;<br>
-               Я вас любил так искренно, так нежно,<br>
+         <div class="poem">
+            <div>
+               <p>Я вас любил: любовь ещё, быть может,
+               В душе моей угасла не совсем;
+               Но пусть она вас больше не тревожит;
+               Я не хочу печалить вас ничем.
+               Я вас любил безмолвно, безнадежно,
+               То робостью, то ревностью томим;
+               Я вас любил так искренно, так нежно,
                Как дай вам Бог любимой быть другим
-            </p>
-         </div>
-           <div style="flex: 1; padding: 10px; margin-left: 10px; border: 1px solid #ccc; font-size: 16px">
-            <p>I loved you, and I probably still do.<br>
-               And for a while the feeling may remain.<br>
-               But let my love no longer trouble you,<br>
-               I do not wish to cause you any pain.<br>
-               I loved you; and the hopelessness I knew,<br>
-               The jealousy, the shyness- though in vain-<br>
-               Made up a love so tender and so true<br>
+               </p>
+            </div>
+            <div>
+               <p>I loved you, and I probably still do.
+               And for a while the feeling may remain.
+               But let my love no longer trouble you,
+               I do not wish to cause you any pain.
+               I loved you; and the hopelessness I knew,
+               The jealousy, the shyness- though in vain-
+               Made up a love so tender and so true
                As may God grant you to be loved again.
                </p>
             </div>
-      </div>
+         </div>
    </details>
 </details>
 
