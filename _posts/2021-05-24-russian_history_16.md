@@ -25,40 +25,42 @@ Pending!
 <br>
 
 <details>
-  <summary>The Turkish War (1828-1829).</summary>
-<div>
-   &#8594; The Greek-Turkish war of national liberation;<br><br>
-   &#8594; Lord Byron;<br><br>
-   &#8594; The Navarin naval battle.<br><br>
-</div>
+   <summary>The Turkish War (1828-1829).</summary>
+   <ul>
+      <li>The Greek-Turkish war of national liberation;</li>
+      <li>Lord Byron;</li>
+      <li>The Navarin naval battle.</li>
+   </ul>
   <figure style="text-align: center;">
     <img src="{{ site.baseurl }}/assets/images/2021-05-24-img_01.jpg" 
          style="width: 45%;"/>
-      <figcaption>Pushkin’s 'Journey to Erzurum'</figcaption>
+      <figcaption style="font-style: italic; font-size: 10;">Pushkin’s 'Journey to Erzurum'</figcaption>
   </figure>
 </details>
 <br>
 
 <details>
    <summary>The Polish Uprising (1830-1831).</summary>
-   <figure style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_02.jpg" style="width: 45%;"/><figcaption>Russia is the policeman of Europe.</figcaption>
+   <figure style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_02.jpg" style="width: 45%;"/><figcaption style="font-style: italic; font-size: 10;">Russia is the policeman of Europe.</figcaption>
    </figure>
-<div>
-   &#8594;  Karolina Sobańska: Secretary to Count General de Witt, her official lover: both agents of the Russian secret police! Her sister, Evelina Gańska, later married Balzac. <br><br>
-   &#8594; Pushkin: “Ja vas ljubil” (Lecture 15). <br><br>
-   &#8594; Adam Mickiewicz: A trip to Crimea on the “Karolina” yacht  (probably the only case in the history of literature where a secret police operation resulted in a poetic  masterpiece).<br><br>
-</div>
+   <ul>
+      <li>Karolina Sobańska: Secretary to Count General de Witt, her official lover: both agents of the Russian secret police! Her sister, Evelina Gańska, later married Balzac.</li>
+      <li>Pushkin: “Ja vas ljubil” (Lecture 15).</li>
+      <li>Adam Mickiewicz: A trip to Crimea on the “Karolina” yacht  (probably the only case in the history of literature where a secret police operation resulted in a poetic  masterpiece).</li>
+   </ul>
 </details>
 <br>
 
 <details>
    <summary>The Hungarian Uprising (1848-1849).</summary>
-      &#8594; Nicolas I sent in an army 280 000 strong.<br><br>
-      &#8594; 13 martyrs hanged.<br><br>
-      &#8594; Sandor Petőfi (blowing up of his statue in Bratislava in 1919; finding of his skeleton in 1990 in Siberia)<br><br>
-      &#8594; <a href="https://www.gutenberg.org/files/40163/40163-h/40163-h.htm">Arminius Vambéry</a>.<br><br>
+   <ul>
+      <li>Nicolas I sent in an army 280 000 strong.</li>
+      <li>13 martyrs hanged.</li>
+      <li>Sandor Petőfi (blowing up of his statue in Bratislava in 1919; finding of his skeleton in 1990 in Siberia)</li>
+      <li><a href="https://www.gutenberg.org/files/40163/40163-h/40163-h.htm">Arminius Vambéry</a>.</li>
+      </ul>
    <figure style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_03.jpg" style="height: 20%;"/><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_04.jpg" style="height: 20%;"/></figure>
-   <figure style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_05.jpg" style="width: 30%;"/><figcaption>Vámbéry’s journey to Bukhara (as Raşit Efendi).</figcaption></figure>
+   <figure style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_05.jpg" style="width: 30%;"/><figcaption style="font-style: italic; font-size: 10;">Vámbéry’s journey to Bukhara (as Raşit Efendi).</figcaption></figure>
 </details>
 <br>
 
@@ -66,14 +68,14 @@ Pending!
 <div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_06.jpg" style="width: 30%"/></div>
 <details>
    <summary>Key Words.</summary>
-   <div>
-      &#8594; Circassians;<br>
-      &#8594; Shaov;<br>
-      &#8594; Chechens;<br>
-      &#8594; Avars;<br>
-      &#8594; Shamil;<br>
-      &#8594; Leo Tolstoy; <a href="http://www.online-literature.com/tolstoy/hadji-murad/1/">Hadji Murad</a>.
-   </div>
+   <ul>
+      <li>Circassians;</li>
+      <li>Shaov;</li>
+      <li>Chechens;</li>
+      <li>Avars;</li>
+      <li>Shamil;</li>
+      <li>Leo Tolstoy; <a href="http://www.online-literature.com/tolstoy/hadji-murad/1/">Hadji Murad</a>.</li>
+   </ul>
 </details>
 <br>
 
@@ -81,17 +83,17 @@ Pending!
 
 <details>
    <summary>The Siege of Sebastopol (1854-1855).</summary>
-   <figure style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_07.jpg" style="width: 30%;"/><figcaption>Montreal, Place du Canada: one of the Russian guns seized by the British troops in Sebastopol.</figcaption></figure>
+   <figure style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_07.jpg" style="width: 30%;"/><figcaption style="font-style: italic; font-size: 10;">Montreal, Place du Canada: one of the Russian guns seized by the British troops in Sebastopol.</figcaption></figure>
 </details>
 <br>
 
 <details>
    <summary>Death of Nicolas I (1855).</summary>
-   <div>
-      &#8594; Probable suicide;<br>
-      &#8594; Nicolas I's personal doctor left Russia immediately;<br>
-      &#8594; The Tzar formally prohibited an autopsy.
-   </div>
+   <ul>
+      <li>Probable suicide;</li>
+      <li>Nicolas I's personal doctor left Russia immediately;</li>
+      <li>The Tzar formally prohibited an autopsy.</li>
+   </ul>
 </details>
 <br>
 
@@ -175,21 +177,23 @@ Pending!
 <figure style="text-align: center;">
 <img src="{{ site.baseurl }}/assets/images/poetry-pushkin.png" style="width: 30%;"/>
 </figure><br>
+<ul>
    &#8594; Pushkin’s granddad: Abraham Ganibal, Peter the Great’s Blackamoor (reminder: Lecture No. 9)<br><br>
    &#8594; Arína Rodiónovna, the beloved nanny<br><br>
    &#8594; Lyceum (reminder: Derzhavin, Lecture No. 5)<br><br>
    &#8594; Multiple exiles<br><br>
    &#8594; Decembrists<br><br>
    &#8594; Duel and death (January 1837) <br><br>
+</ul>
    <figure style="text-align: center;">
     <img src="{{ site.baseurl }}/assets/images/2021-05-24-img_08.jpg" 
          style="width: 30%;"/>
-      <figcaption>5 Decembrists who were executed, drawn by Pushkin with the caption: 'I could be hanging as well, as a bufoon…'</figcaption>
+      <figcaption style="font-style: italic; font-size: 10;">5 Decembrists who were executed, drawn by Pushkin with the caption: 'I could be hanging as well, as a bufoon…'</figcaption>
   </figure>
    <figure style="text-align: center;">
     <img src="{{ site.baseurl }}/assets/images/2021-05-24-img_09.jpg" 
          style="width: 30%;"/>
-      <figcaption>Pushkin’s wife: Natalya Goncharova</figcaption>
+      <figcaption style="font-style: italic; font-size: 10;">Pushkin’s wife: Natalya Goncharova</figcaption>
    </figure>
    <details>
       <summary>A poem by Alexander Pushkin: “I loved you”.</summary>
@@ -242,7 +246,7 @@ Pending!
       <div>
          <ul>
             <li>“The History of Pugachëv”</li>
-            <li>“The Blackamoor of Peter the Great” (Rus. noun ARAP means ‘Negro’; ARAB is ‘Arab’)./li>
+            <li>“The Blackamoor of Peter the Great” (Rus. noun ARAP means ‘Negro’; ARAB is ‘Arab’).</li>
          </ul>
       </div>
    </details>
