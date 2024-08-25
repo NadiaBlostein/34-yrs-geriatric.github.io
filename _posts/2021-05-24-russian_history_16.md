@@ -18,7 +18,9 @@ Pending!
 
 <details>
    <summary>The Persian War (1826-1828).</summary>
-      &#8594;  Griboyedov.<br>
+      <ul>
+         <li>Griboyedov.</li>
+      </ul>
 </details>
 <br>
 
@@ -215,49 +217,36 @@ Pending!
                </p>
             </div>
          </div>
+         <br>
+   </details>
+   <details>
+      <summary>Prose</summary>
+      <div>
+         <ul>
+            <li>“The Captain’s Daughter”</li>
+            <li>“Dubrovsky”</li>
+         </ul>
+      </div>
+   </details>
+   <details>
+      <summary>Plays</summary>
+      <div>
+         <ul>
+            <li>“Boris Godunov” (reminder: Lecture No. 5)</li>
+            <li>“Little Tragedies”, <a href="https://www.youtube.com/watch?v=1Ke33_1de_Y">“Faust” & “Egyptian Nights”</a></li>
+         </ul>
+      </div>
+   </details>
+      <details>
+      <summary>History</summary>
+      <div>
+         <ul>
+            <li>“The History of Pugachëv”</li>
+            <li>“The Blackamoor of Peter the Great” (Rus. noun ARAP means ‘Negro’; ARAB is ‘Arab’)./li>
+         </ul>
+      </div>
    </details>
 </details>
-
-<!-- <details>
-
-</details>
-
-**A poem by Alexander Pushkin: “I loved you”.**
-<div style="display: flex; justify-content: space-between;">
-
-  <div style="flex: 1; padding: 10px; margin-right: 10px; border: 1px solid #ccc; font-size: 16px">
-    <p>Я вас любил: любовь ещё, быть может,<br>
-      В душе моей угасла не совсем;<br>
-      Но пусть она вас больше не тревожит;<br>
-      Я не хочу печалить вас ничем.<br>
-      Я вас любил безмолвно, безнадежно,<br>
-      То робостью, то ревностью томим;<br>
-      Я вас любил так искренно, так нежно,<br>
-      Как дай вам Бог любимой быть другим.</p>
-  </div>
-
-  <div style="flex: 1; padding: 10px; margin-left: 10px; border: 1px solid #ccc; font-size: 16px">
-    <p>I loved you, and I probably still do.<br>
-      And for a while the feeling may remain.<br>
-      But let my love no longer trouble you,<br>
-      I do not wish to cause you any pain.<br>
-      I loved you; and the hopelessness I knew,<br>
-      The jealousy, the shyness- though in vain-<br>
-      Made up a love so tender and so true<br>
-      As may God grant you to be loved again.</p>
-  </div>
-
-</div>
-
-**Prose**
-* “The Captain’s Daughter”
-* “Dubrovsky”
-**Plays**
-* “Boris Godunov” (reminder: Lecture No. 5)
-* “Little Tragedies”: “Faust” & “Egyptian Nights”: https://www.youtube.com/watch?v=1Ke33_1de_Y
-**History**
-* “The History of Pugachëv”
-* “The Blackamoor of Peter the Great” (Rus. noun ARAP means ‘Negro’; ARAB is ‘Arab’). -->
 
 <!-- # Lecture Transcript
 
