@@ -63,6 +63,10 @@ details[open] {
   margin-bottom: 10px;
   margin-left: 10px;
   margin-right: 10px;
+}
+
+.card-top::before, .card-right::before, .card-bottom::before, .card-left::before,
+.card-top::after, .card-right::after, .card-bottom::after, .card-left::after {
   box-sizing: content-box;
 }
 
