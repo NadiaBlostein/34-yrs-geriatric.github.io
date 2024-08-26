@@ -41,11 +41,12 @@ Pending!
 
 <details>
    <summary>The Polish Uprising (1830-1831).</summary>
+   <br>
    <figure style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_02.jpg" style="width: 45%;"/><figcaption style="font-style: italic; font-size: 10;">Russia is the policeman of Europe.</figcaption>
    </figure>
    <ul>
-      <li>Karolina Sobańska: Secretary to Count General de Witt, her official lover: both agents of the Russian secret police! Her sister, Evelina Gańska, later married Balzac.</li>
-      <li>Pushkin: “Ja vas ljubil” (Lecture 15).</li>
+      <li>Karolina Sobańska: Secretary to Count General de Witt, her official lover: both agents of the Russian secret police! Her sister, Evelina Gańska, later married Balzac;</li>
+      <li>Pushkin: “Ja vas ljubil” (Lecture 15);</li>
       <li>Adam Mickiewicz: A trip to Crimea on the “Karolina” yacht  (probably the only case in the history of literature where a secret police operation resulted in a poetic  masterpiece).</li>
    </ul>
 </details>
@@ -54,15 +55,15 @@ Pending!
 <details>
    <summary>The Hungarian Uprising (1848-1849).</summary>
    <ul>
-      <li>Nicolas I sent in an army 280 000 strong.</li>
-      <li>13 martyrs hanged.</li>
-      <li>Sandor Petőfi (blowing up of his statue in Bratislava in 1919; finding of his skeleton in 1990 in Siberia)</li>
+      <li>Nicolas I sent in an army 280 000 strong;</li>
+      <li>13 martyrs hanged;</li>
+      <li>Sandor Petőfi (blowing up of his statue in Bratislava in 1919; finding of his skeleton in 1990 in Siberia);</li>
       <li><a href="https://www.gutenberg.org/files/40163/40163-h/40163-h.htm">Arminius Vambéry</a>.</li>
       </ul>
-   <figure style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_03.jpg" style="height: 20%;"/><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_04.jpg" style="height: 20%;"/></figure>
+   <figure style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_03.jpg" style="height: 30px;"/><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_04.jpg" style="height: 30px;"/></figure>
    <figure style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_05.jpg" style="width: 30%;"/><figcaption style="font-style: italic; font-size: 10;">Vámbéry’s journey to Bukhara (as Raşit Efendi).</figcaption></figure>
+   <br>
 </details>
-<br>
 
 # II. The Caucasian War (1817 – 1859)
 <div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_06.jpg" style="width: 30%"/></div>
@@ -83,7 +84,9 @@ Pending!
 
 <details>
    <summary>The Siege of Sebastopol (1854-1855).</summary>
+   <br>
    <figure style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_07.jpg" style="width: 30%;"/><figcaption style="font-style: italic; font-size: 10;">Montreal, Place du Canada: one of the Russian guns seized by the British troops in Sebastopol.</figcaption></figure>
+   <br>
 </details>
 <br>
 
@@ -98,7 +101,7 @@ Pending!
 <br>
 
 <details>
-   <summary>The Charge of the Light Brigade by ALFRED, LORD TENNYSON (1854)</summary>
+   <summary>The Charge of the Light Brigade by Alfred, Lord Tenyson (1854)</summary>
    <div>
       I<br>
       Half a league, half a league,<br>
@@ -178,12 +181,12 @@ Pending!
 <img src="{{ site.baseurl }}/assets/images/poetry-pushkin.png" style="width: 30%;"/>
 </figure><br>
 <ul>
-   &#8594; Pushkin’s granddad: Abraham Ganibal, Peter the Great’s Blackamoor (reminder: Lecture No. 9)<br><br>
-   &#8594; Arína Rodiónovna, the beloved nanny<br><br>
-   &#8594; Lyceum (reminder: Derzhavin, Lecture No. 5)<br><br>
-   &#8594; Multiple exiles<br><br>
-   &#8594; Decembrists<br><br>
-   &#8594; Duel and death (January 1837) <br><br>
+   <li>Pushkin’s granddad: Abraham Ganibal, Peter the Great’s Blackamoor (reminder: Lecture No. 9);</li>
+   <li>Arína Rodiónovna, the beloved nanny;</li>
+   <li>Lyceum (reminder: Derzhavin, Lecture No. 5);</li>
+   <li>Multiple exiles;</li>
+   <li>Decembrists;</li>
+   <li>Duel and death (January 1837).</li>
 </ul>
    <figure style="text-align: center;">
     <img src="{{ site.baseurl }}/assets/images/2021-05-24-img_08.jpg" 
