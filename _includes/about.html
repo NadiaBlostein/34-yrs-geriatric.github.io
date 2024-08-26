@@ -13,9 +13,9 @@
                     <p>
                         <h3 style="text-align: center; color:#5f362e">Behold the companion guide to an <b>ongoing seminar series</b> on Igor Mel'čuk and Lidija Iordanskaja's (almost) 2 centuries' worth of linguistic work and love for Russian poetry.</h3>
                     </p>
-                    <p>
-                      <h3 style="text-align: center; color:#5f362e">Email nadiablostein@gmail.com to subscribe.</h3>
-                  </p>
+                    <!-- <p>
+                      <h3 style="text-align: center; color:#5f362e">Email to subscribe.</h3>
+                  </p> -->
                 </div>
                 <!-- /Section header -->
             </div>
@@ -57,7 +57,7 @@
                     </div>
                     <div class='card-text' style="text-align: left;">
                       <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-default" style="text-align: left; display: block; color:#895151;">
-                        {{ post.date | date: "%-d %B %Y" }}<br>
+                        {{ post.custom_date }}<br>
                         {{ post.time }}<br>
                         {{ post.title }}<br>
                       </a>
