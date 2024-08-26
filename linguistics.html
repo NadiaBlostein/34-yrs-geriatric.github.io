@@ -14,7 +14,7 @@ title: Linguistics
     <div class="row">
 
     {% for post in site.posts %}
-        {% if post.categories == "linguistics" %}
+        {% if post.categories == linguistics %}
             {% if post.featured == true %}
                 {% if post.hidden == false %}
                     {% include featuredbox.html %}
@@ -41,7 +41,7 @@ title: Linguistics
     <div class="row listrecent">
 
         {% for post in site.posts %}
-            {% if post.categories == "linguistics" %}
+            {% if post.categories == linguistics %}
                 {% if post.hidden == false %}
                     {% include featuredbox.html %}
                 {% endif %}
