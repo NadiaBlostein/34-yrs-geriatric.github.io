@@ -13,22 +13,14 @@ title: History
     </div>
     <div class="row">
 
-    {% for post in site.posts %}
-    
-        {% if post.categories == history %}
-        
+    {% for post in site.posts %} 
+        {% if post.categories == "history" %}        
             {% if post.featured == true %}
-
-            {% if post.hidden == false %}
-
-                {% include featuredbox.html %}
-
+                {% if post.hidden == false %}
+                    {% include featuredbox.html %}
+                {% endif %}
             {% endif %}
-
-            {% endif %}
-
         {% endif %}
-
     {% endfor %}
 
     </div>
@@ -49,8 +41,10 @@ title: History
     <div class="row listrecent">
 
         {% for post in site.posts %}
-            {% if post.hidden == false %}
-               {% include featuredbox.html %}
+            {% if post.categories == "history" %}
+                {% if post.hidden == false %}
+                    {% include featuredbox.html %}
+                {% endif %}
             {% endif %}
         {% endfor %}
 

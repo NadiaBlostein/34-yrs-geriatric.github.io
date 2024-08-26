@@ -10,10 +10,6 @@ featured: true
 hidden: false
 ---
 
-# Summary
-
-Pending!
-
 # I. Interventions abroad 
 
 <details>
@@ -22,15 +18,16 @@ Pending!
          <li>Griboyedov.</li>
       </ul>
 </details>
-<br>
 
 <details>
    <summary>The Turkish War (1828-1829).</summary>
+   <br>
    <ul>
       <li>The Greek-Turkish war of national liberation;</li>
       <li>Lord Byron;</li>
       <li>The Navarin naval battle.</li>
    </ul>
+   <br>
   <figure style="text-align: center;">
     <img src="{{ site.baseurl }}/assets/images/2021-05-24-img_01.jpg" 
          style="width: 45%;"/>
@@ -49,21 +46,23 @@ Pending!
       <li>Pushkin: “Ja vas ljubil” (Lecture 15);</li>
       <li>Adam Mickiewicz: A trip to Crimea on the “Karolina” yacht  (probably the only case in the history of literature where a secret police operation resulted in a poetic  masterpiece).</li>
    </ul>
+   <br>
 </details>
-<br>
 
 <details>
    <summary>The Hungarian Uprising (1848-1849).</summary>
+   <br>
    <ul>
       <li>Nicolas I sent in an army 280 000 strong;</li>
       <li>13 martyrs hanged;</li>
       <li>Sandor Petőfi (blowing up of his statue in Bratislava in 1919; finding of his skeleton in 1990 in Siberia);</li>
       <li><a href="https://www.gutenberg.org/files/40163/40163-h/40163-h.htm">Arminius Vambéry</a>.</li>
       </ul>
-   <figure style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_03.jpg" style="height: 30px;"/><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_04.jpg" style="height: 30px;"/></figure>
+   <figure style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_03.jpg" style="height: 60px;"/><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_04.jpg" style="height: 60px;"/></figure>
    <figure style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_05.jpg" style="width: 30%;"/><figcaption style="font-style: italic; font-size: 10;">Vámbéry’s journey to Bukhara (as Raşit Efendi).</figcaption></figure>
    <br>
 </details>
+<br>
 
 # II. The Caucasian War (1817 – 1859)
 <div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_06.jpg" style="width: 30%"/></div>
@@ -173,7 +172,7 @@ Pending!
 </details>
 <br>
 
-# Supplementary  IV. Literature (1800—1825)
+# IV. Literature (1800—1825)
 
 <details>
 <summary>Alexander Pushkin (1799—1837), “Our Everything”</summary>
@@ -253,6 +252,126 @@ Pending!
          </ul>
       </div>
    </details>
+</details>
+
+<details>
+   <summary>Ivan Krylov (1769–1844)</summary>
+      <figure style="text-align: center;">
+         <img src="{{ site.baseurl }}/assets/images/poetry-krylov.png" style="width: 30%;"/>
+      </figure><br>
+      <div>
+         <ul>
+            <li>Reminder (Lecture No. 11): Krylov’s father as a garrison commander withstood the siege of Uralsk by Pugachëv’s bands;</li>
+            <li>An extremely lazy person: Krylov, at 23, refused to go for his fiancée at her home town (less than 800 km);</li>
+            <li>A hearty eater: three dinners in one day;</li>
+            <li>Famous for his indifference to his wardrobe: once he came to visit the Empress with a hole in one of his boots through which his toe was showing;</li>
+            <li>He had his cook, Fenya, as a his common law partner; he ensured their daughter Аlexandra an excellent education, a good marriage and bequeathed his property to her.</li>
+         </ul>
+      </div>
+      <details>
+      <summary>A poem by Ivan Krylov: “Crow and Fox” (Ворона и Лисица), 1807.</summary>
+         <div class="poem">
+            <div>
+               <p>Уж сколько раз твердили миру,
+               Что лесть гнусна, вредна; но только все не впрок,
+               И в сердце льстец всегда отыщет уголок.
+               Вороне где-то бог послал кусочек сыру;
+                           На ель Ворона взгромоздясь,
+               Позавтракать было совсем уж собралась,
+                   Да призадумалась, а сыр во рту держала.
+               На ту беду Лиса близехонько бежала;
+                   Вдруг сырный дух Лису остановил:
+               Лисица видит сыр, Лисицу сыр пленил.
+               Плутовка к дереву на цыпочках подходит;
+               Верти́т хвостом, с Вороны глаз не сводит
+                   И говорит так сладко, чуть дыша:
+                       «Голубушка, как хороша!
+                       Ну что за шейка, что за глазки!
+                       Рассказывать, так, право, сказки!
+                   Какие перушки! какой носок!
+               И, верно, ангельский быть должен голосок!
+               Спой, светик, не стыдись! Что, ежели, сестрица,
+               При красоте такой и петь ты мастерица, —
+                       Ведь ты б у нас была царь-птица!»
+               Вещуньина с похвал вскружилась голова,
+                   От радости в зобу дыханье спёрло, —
+               И на приветливы Лисицыны слова
+               Ворона каркнула во все воронье горло:
+               Сыр выпал — с ним была плутовка такова.
+               </p>
+            </div>
+            <div>
+               <p>It is a commonplace 
+               And we all know 
+               That flattery is base,
+               And mean, and low.  
+               However, all in vain,  
+               And flatterers were, are, and will remain.
+               Once God sent a Crow  
+               A decent piece of cheese,  
+               After a long and forced fast.  
+               To a big oak she flies fast  
+               To have a breakfast 
+               There in peace,  
+               And almost has begun,  
+               But was distracted by some thought  
+               (I do not know, about what). 
+               Unfortunately, a sly Fox has run 
+               Not far. The cheese she smelt  
+               And also sort of hungry felt. 
+               Then to the oak-tree she did tiptoe,  
+               Looking with admiration at the Crow,  
+               And said in her most sugar voice,  
+               "Sweetheart, I very much rejoice 
+               In meeting such a beauty in our land. 
+               Oh, what a neck, beak, feathers, and  
+               An elegant smart wing!  
+               I bet, just like an angel you should sing. 
+               Well, darling, don’t be shy, 
+               Just try!  
+               If in addition to looks that nice  
+               You also have a pleasant voice, 
+               The whole forest will rejoice 
+               And you'll be valued thrice."
+               The speech like that 
+               Completely reeled the head  
+               Of the poor Crow,  
+               And she did caw,  
+               With all air in her craw. 
+               Fell out the piece 
+               Of cheese.  
+               And our story ends at this.
+               </p>
+            </div>
+         </div>
+         <br>
+   </details>
+</details>
+
+<details>
+   <summary>Nikolai Erdman (1900-1970)</summary>
+      <h3>A fable: “The Crow and the Cheese” (Ворона и сыр).</h3>
+      <div class="poem">
+         <div>
+            <p>Вороне где-то Бог послал кусочек сыру.
+            Читатель скажет: Бога нет!
+            Читатель, милый, ты придира!
+            Да, Бога нет. Но нет и сыра!
+            </p>
+         </div>
+         <div>
+            <p>Once God sent the crow a decent piece of cheese...
+            Our reader is indignant: There is no God, please!
+            Oh you, dear reader, take a breather:
+            Sure, there is no God—but no cheese, either!
+            </p>
+         </div>
+      </div>
+      <br>
+      <ul>
+         <li>A modern saying: “Our freedom of speech must be paid by our hunger."</li>
+         <li>This “fable” landed Erdman in Siberian exile (in 1933; and he never again wrote plays or fables).</li>
+      </ul>
 </details>
 
 <!-- # Lecture Transcript

@@ -14,21 +14,13 @@ title: Poetry
     <div class="row">
 
     {% for post in site.posts %}
-    
-        {% if post.categories == poetry %}
-        
+        {% if post.categories == "poetry" %}
             {% if post.featured == true %}
-
-            {% if post.hidden == false %}
-
-                {% include featuredbox.html %}
-
+                {% if post.hidden == false %}
+                    {% include featuredbox.html %}
+                {% endif %}
             {% endif %}
-
-            {% endif %}
-
         {% endif %}
-
     {% endfor %}
 
     </div>
@@ -49,8 +41,10 @@ title: Poetry
     <div class="row listrecent">
 
         {% for post in site.posts %}
-            {% if post.hidden == false %}
-               {% include featuredbox.html %}
+            {% if post.categories == "poetry" %}
+                {% if post.hidden == false %}
+                    {% include featuredbox.html %}
+                {% endif %}
             {% endif %}
         {% endfor %}
 
