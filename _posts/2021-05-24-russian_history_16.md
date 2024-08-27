@@ -18,6 +18,7 @@ hidden: false
          <li>Griboyedov.</li>
       </ul>
 </details>
+<br>
 
 <details>
    <summary>The Turkish War (1828-1829).</summary>
@@ -48,6 +49,7 @@ hidden: false
    </ul>
    <br>
 </details>
+<br>
 
 <details>
    <summary>The Hungarian Uprising (1848-1849).</summary>
@@ -66,6 +68,7 @@ hidden: false
 
 # II. The Caucasian War (1817 – 1859)
 <div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_06.jpg" style="width: 30%"/></div>
+<br>
 <details>
    <summary>Key Words.</summary>
    <ul>
@@ -253,7 +256,7 @@ hidden: false
       </div>
    </details>
 </details>
-
+<br>
 <details>
    <summary>Ivan Krylov (1769–1844)</summary>
       <figure style="text-align: center;">
@@ -347,7 +350,7 @@ hidden: false
          <br>
    </details>
 </details>
-
+<br>
 <details>
    <summary>Nikolai Erdman (1900-1970)</summary>
       <h3>A fable: “The Crow and the Cheese” (Ворона и сыр).</h3>
@@ -372,6 +375,34 @@ hidden: false
          <li>A modern saying: “Our freedom of speech must be paid by our hunger."</li>
          <li>This “fable” landed Erdman in Siberian exile (in 1933; and he never again wrote plays or fables).</li>
       </ul>
+</details>
+<br>
+<details>
+   <summary>Alexander Griboyedov (1795–1829)</summary>
+      <figure style="text-align: center;">
+         <img src="{{ site.baseurl }}/assets/images/poetry-griboyedov.png" style="width: 30%;"/>
+      </figure><br>
+      <ul>
+         <li>Griboyedov's masterpiece: <a href="https://readrussia.org/russian-library/woe-from-wit.html">Woe from Wit</a>;</li>
+         <li>Griboedov was arrested in 1826 (the burning of all his “papers”).</li>
+         <li>Pushkin —during his Erzerum journey— to the driver of horse-drawn wagon (met at a mountain pass in the Caucasus): "What are you carrying?" The driver: "Some Mushroom-eater (= Griboeda)!"
+         </li>
+         <li>His wife, Ninó Chavchavádze: “Your spirit and achievements are immortal in the Russian memory. But why did my love outlive you?”</li>
+         <li>Note: <a href="https://www.washingtonpost.com/local/obituaries/david-chavchavadze-cia-spy-with-russian-royal-roots-dies-at-90/2014/11/08/ddd65f86-5ec6-11e4-9f3a-7e28799e0549_story.html">Another Chavchavadzé</a>
+         </li>
+      </ul>
+      <figure style="text-align: center;">
+         <img src="{{ site.baseurl }}/assets/images/2021-05-24-img_11.jpg" 
+         style="width: 30%;"/>
+         <figcaption style="font-style: italic; font-size: 10;">Ninó Chavchavádze, Griboyedov’s young wife</figcaption>
+      </figure>
+      <br>
+      <figure style="text-align: center;">
+         <img src="{{ site.baseurl }}/assets/images/2021-05-24-img_12.jpg" 
+         style="width: 30%;"/>
+         <figcaption style="font-style: italic; font-size: 10;">On Griboedov’s tomb (in the Mtatsminda Cementary in Tbilisi)</figcaption>
+      </figure>
+      <br>
 </details>
 
 <!-- # Lecture Transcript
