@@ -6,8 +6,8 @@ title:  "Russian History 4"
 categories: [ history ]
 image: assets/images/cover-default-02B.jpg
 excerpt: Page incomplete.
-featured: true
-hidden: false
+featured: false
+hidden: true
 ---
 
 <!-- # Title brainstorm

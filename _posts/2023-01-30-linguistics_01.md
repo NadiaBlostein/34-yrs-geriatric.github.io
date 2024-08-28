@@ -1,7 +1,7 @@
 ---
 layout: post
 past: false
-custom_date: "8 September 2024"
+custom_date: "15 September 2024"
 time: "17:00:00 EST / 21:00:00 GMT"
 title:  "Linguistics 1"
 categories: [ linguistics ]

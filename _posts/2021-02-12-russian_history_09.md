@@ -6,8 +6,8 @@ title:  "Russian History 9"
 categories: [ history ]
 image: assets/images/cover-default-01C.jpg
 excerpt: Page incomplete.
-featured: true
-hidden: false
+featured: false
+hidden: true
 ---
 
 <!-- # Title brainstorm
