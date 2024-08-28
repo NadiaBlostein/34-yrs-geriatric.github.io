@@ -5,6 +5,8 @@ meta_description: "Igor & Lida's Chronicles"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/icon.png'
 baseurl: 'https://igor-lida-chronicles.github.io'
+google_analytics: 'UA-116897577-1'
+disqus: 'igor-lida-chronicles'
 
 # Authors
 authors:
