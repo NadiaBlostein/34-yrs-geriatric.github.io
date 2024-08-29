@@ -2,18 +2,15 @@
 layout: post
 past: true
 time: "20:00:00 EST"
-title:  "Russian History 15"
+title:  "Russian History 15. The Rigid Stick of Autocracy and Cultural Awakening"
 categories: [ history ]
 image: assets/images/cover-default-01C.jpg
-excerpt: Page incomplete.
+excerpt: Explore the reign of Nicholas I, known as "Nicolas the Stick," for his relentless discipline and autocratic rule, the dramatic events of the Decembrist Revolt, and the vibrant literary contributions of Russian figures like Pushkin, Krylov, and Griboyedov amidst a period of intense political repression and cultural transformation.
 featured: true
 hidden: false
 ---
 
-<br>
-<br>
-
-# I. Nicolas I (1825-1855)
+## I. Nicolas I (1825-1855)
 
 <details>
     <summary>Why the nickname "Nicolas the stick" (Nikolaj Palkin)?</summary>
@@ -69,10 +66,8 @@ hidden: false
         </figure>
         <br>
 </details>
-<br>
 
-
-# III. Literature (1800—1825)
+## III. Literature (1800—1825)
 
 <details>
 <summary>Alexander Pushkin (1799—1837), “Our Everything”</summary>

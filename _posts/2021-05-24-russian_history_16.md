@@ -2,17 +2,15 @@
 layout: post
 past: true
 time: "20:00:00 EST"
-title:  "Russian History 16"
+title:  "Russian History 16. Military Campaigns of the 19th Century: From the Caucasus to Crimea"
 categories: [ history ]
 image: assets/images/cover-default-02B.jpg
-excerpt: We began around 8 000 years ago in the Indo-European Homeland and ended in 988, when Vladimir the Great adopted Orthodox Christianity.
+excerpt: This page delves into Russia's extensive military interventions in the 19th century, including the Persian and Turkish Wars, the suppression of uprisings in Poland and Hungary, the protracted Caucasian War, and the pivotal Crimean War, highlighting key battles, literary reflections, and the impact of these conflicts on the Russian Empire and Europe.
 featured: true
 hidden: false
 ---
-<br>
-<br>
 
-# I. Interventions abroad 
+## I. Interventions abroad 
 
 <details>
    <summary>The Persian War (1826-1828).</summary>
@@ -68,7 +66,7 @@ hidden: false
 </details>
 <br>
 
-# II. The Caucasian War (1817 – 1859)
+## II. The Caucasian War (1817 – 1859)
 <div style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/2021-05-24-img_06.jpg" style="width: 30%"/></div>
 <br>
 <details>
@@ -84,7 +82,7 @@ hidden: false
 </details>
 <br>
 
-# III. The Crimean War (1854 – 1856)
+## III. The Crimean War (1854 – 1856)
 
 <details>
    <summary>The Siege of Sebastopol (1854-1855).</summary>
