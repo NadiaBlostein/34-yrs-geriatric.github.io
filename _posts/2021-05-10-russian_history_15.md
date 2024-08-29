@@ -6,8 +6,8 @@ title:  "Russian History 15"
 categories: [ history ]
 image: assets/images/cover-default-01C.jpg
 excerpt: Page incomplete.
-featured: false
-hidden: true
+featured: true
+hidden: false
 ---
 
 <br>
