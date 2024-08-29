@@ -13,8 +13,11 @@ hidden: false
 <br>
 <br>
 
+# I. Nicolas I (1825-1855)
+
 <details>
-    <summary><h1> I. Nicolas I (1825-1855)</h1></summary>
+    <summary>Why the nickname "Nicolas the stick" (Nikolaj Palkin)?</summary>
+    <br>
       <figure style="text-align: center;">
          <img src="{{ site.baseurl }}/assets/images/2021-05-10-img_05.jpg" 
    style="width: 45%;"/>
@@ -27,12 +30,20 @@ hidden: false
          <li>Nickname: Nicolas The Stick (Nikolaj Palkin).</li>
          <li>One of Nicolas’ instructions on the documents that needed his signature: <i>“Those who are guilty are to be taken through 1000 people 12 times [being flogged or beaten by 1000 people, 12 times each]. Thank God, we don’t have death penalty, and it is not me who will introduce it.”</i></li>
       </ul>
+   <br>
 </details>
 
+## II. The Decembrist Revolt (1825)
 <details>
-    <summary><h1>II. The Decembrist Revolt (1825)</h1></summary>
+    <summary>What happened on December 26th (Old Style: December 14th) 1825?</summary>
+    <br>
+      <figure style="text-align: center;">
+         <img src="{{ site.baseurl }}/assets/images/2021-05-10-img_04.jpg" 
+         style="width: 45%;"/>
+         <figcaption style="font-style: italic; font-size: 10;">The living in the prison chamber of Sergej Volkonskij</figcaption>
+        </figure>
+      <br>
         <ul>
-            <li>When? December 26th (Old Style: December 14th) 1825.</li>
             <li>Nicolas I imposed an oath of allegiance to himself instead of Constantine.</li>
             <li>≈ 3 000 soldiers who refused to take the oath of allegiance took to the streets and occupied the Senate Square.</li>
             <li>The Tzar (Nicholas I) tried to parley with the rebels—but one of the revolting officers (by the way, retired) shot and killed General Milorádovich (the Military Governor of Sanit-Petersburg) and then the colonel Stürler.</li>
@@ -55,12 +66,6 @@ hidden: false
         <figure style="text-align: center;">
             <img src="{{ site.baseurl }}/assets/images/2021-05-10-img_03.jpg" 
          style="width: 45%;"/>
-        </figure>
-        <br>
-        <figure style="text-align: center;">
-            <img src="{{ site.baseurl }}/assets/images/2021-05-10-img_04.jpg" 
-         style="width: 45%;"/>
-            <figcaption style="font-style: italic; font-size: 10;">The living in the prison chamber of Sergej Volkonskij</figcaption>
         </figure>
         <br>
 </details>
