@@ -13,10 +13,24 @@ hidden: false
 <br>
 <br>
 
-# I. The Decembrist Revolt (1825)
+<details>
+    <summary><h1> I. Nicolas I (1825-1855)</h1></summary>
+      <figure style="text-align: center;">
+         <img src="{{ site.baseurl }}/assets/images/2021-05-10-img_05.jpg" 
+   style="width: 45%;"/>
+         <figcaption style="font-style: italic; font-size: 10;">Portrait by Georg von Bothmann, 1855</figcaption>
+      </figure>
+      <ul>
+         <li>His personal slogan: <i>"severe discipline and formalism"</i>. The Russian official slogan: <i>"Orthodoxy, Autocracy, and Nationality"</i> (Pravoslavie, Samoderžavie, Narodnostʹ).</li>
+         <li>He loved only military science, becoming a fine army engineer and expert in several other military areas.</li>
+         <li>Nicholas I came to represent autocracy personified: infinitely majestic, determined and powerful, hard as stone, and relentless as fate.</li>
+         <li>Nickname: Nicolas The Stick (Nikolaj Palkin).</li>
+         <li>One of Nicolas’ instructions on the documents that needed his signature: <i>“Those who are guilty are to be taken through 1000 people 12 times [being flogged or beaten by 1000 people, 12 times each]. Thank God, we don’t have death penalty, and it is not me who will introduce it.”</i></li>
+      </ul>
+</details>
 
 <details>
-    <summary>More.</summary>
+    <summary><h1>II. The Decembrist Revolt (1825)</h1></summary>
         <ul>
             <li>When? December 26th (Old Style: December 14th) 1825.</li>
             <li>Nicolas I imposed an oath of allegiance to himself instead of Constantine.</li>
