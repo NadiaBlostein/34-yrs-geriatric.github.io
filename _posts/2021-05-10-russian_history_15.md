@@ -6,7 +6,7 @@ title:  "Russian History 15"
 subtitle:  "The Rigid Stick of Autocracy and Cultural Awakening"
 categories: [ history ]
 image: assets/images/cover-default-01C.jpg
-excerpt: Explore the reign of Nicholas I, known as "Nicolas the Stick," for his relentless discipline and autocratic rule, the dramatic events of the Decembrist Revolt, and the vibrant literary contributions of Russian figures like Pushkin, Krylov, and Griboyedov amidst a period of intense political repression and cultural transformation.
+excerpt: Explore the reign of Nicholas I (aka "Nicolas the Stick"), the dramatic events of the Decembrist Revolt, and the vibrant literary contributions of Pushkin, Krylov, and Griboyedov.
 featured: true
 hidden: false
 ---

@@ -60,7 +60,7 @@
                       <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-default" style="text-align: left; display: block; color:#895151;">
                         {{ post.custom_date }}<br>
                         {{ post.time }}<br>
-                        {{ post.title }}<br>
+                        <b>{{ post.title }}</b><br>
                         <i>{{ post.subtitle }}</i><br>
                       </a>
                     </div>
@@ -87,8 +87,8 @@
                     <div class='card-text' style="text-align: left;">
                       <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-default" style="text-align: left; display: block; color:#895151;">
                         {{ post.date | date: "%-d %B %Y" }}<br>
-                        {{ post.time }}<br>
-                        {{ post.title }}<br>
+                        <b>{{ post.title }}</b><br>
+                        <i>{{ post.subtitle }}</i><br>
                       </a>
                     </div>
                   </div>
