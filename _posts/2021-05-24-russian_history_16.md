@@ -2,7 +2,8 @@
 layout: post
 past: true
 time: "20:00:00 EST"
-title:  "Russian History 16. Military Campaigns of the 19th Century: From the Caucasus to Crimea"
+title:  "Russian History 16"
+subtitle: "Military Campaigns of the 19th Century: From the Caucasus to Crimea"
 categories: [ history ]
 image: assets/images/cover-default-02B.jpg
 excerpt: This page delves into Russia's extensive military interventions in the 19th century, including the Persian and Turkish Wars, the suppression of uprisings in Poland and Hungary, the protracted Caucasian War, and the pivotal Crimean War, highlighting key battles, literary reflections, and the impact of these conflicts on the Russian Empire and Europe.

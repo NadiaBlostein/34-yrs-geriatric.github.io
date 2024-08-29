@@ -2,7 +2,8 @@
 layout: post
 past: true
 time: "20:00:00 EST"
-title:  "Russian History 12. Tsar Paul I: A Mercurial Reign and the Dawn of 19th Century Russia"
+title:  "Russian History 12"
+subtitle:  "Tsar Paul I: A Mercurial Reign and the Dawn of 19th Century Russia"
 categories: [ history ]
 image: assets/images/cover-default-02C.jpg
 excerpt: This lecture provides a comprehensive overview of Paul I's reign, personality, policies, and impact on Russian history, ending with his assassination and the transition to the 19th century.

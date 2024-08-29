@@ -120,7 +120,7 @@ License: https://www.wowthemes.net/freebies-license/
 }
  .listfeaturedtag h4.card-text,.listrecent h4.card-text {
      color:rgba(0,0,0,.44);
-     font-size:0.95rem;
+     font-size:0.8rem;
      line-height:1.4;
      font-weight:400;
 }
@@ -228,6 +228,14 @@ License: https://www.wowthemes.net/freebies-license/
  .mainheading h1.posttitle {
      font-weight:700;
      margin-bottom:1rem;
+     color:#8f9e9e;
+     text-align: center;
+}
+.mainheading h1.postsubtitle {
+    font-weight:600;
+    margin-bottom:1rem;
+    color:#27252d;
+    text-align: center;
 }
  .footer {
      border-top:1px solid rgba(0,0,0,.05)!important;

@@ -87,6 +87,7 @@ post_class: post-template
 
                 <!-- Post Title -->
 				<h1 class="posttitle">{{ page.title }}</h1>
+        <h1 class="postsubtitle">{{ page.subtitle }}</h1>
 
 			</div>
       
@@ -95,9 +96,6 @@ post_class: post-template
 			{% if page.image %}<img class="featured-image img-fluid" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">{% endif %}
       </p>
       <!-- End Featured Image -->
-       <p>
-        <h1 style="color:#8f9e9e">{{page.title}}</h1>
-       </p>
 
     <!-- Post Content -->
       <div class="article-post">
