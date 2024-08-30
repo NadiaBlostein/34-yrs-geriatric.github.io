@@ -8,7 +8,7 @@
 
                 <!-- Section header -->
                 <div class="section-header text-center">
-                    <p style="font-size:36px; font-weight: bold; color:#27252d; padding-bottom:10px;">Welcome to Igor & Lida's <span style="background-color:#8f9e9e; color: #e8dabb; opacity: 0.9; border: 3px solid #925b3b;">Chronicles</span> 
+                    <p style="font-size:36px; font-weight: bold; color:#27252d; padding-bottom:10px;">Welcome to Igor & Lida's <span style="background-color:#8f9e9e; color: #e8dabb; opacity: 0.9; border: 1px solid #925b3b;">Chronicles</span> 
                     </p>
                     <p>
                         <h3 style="text-align: center; color:#27252d">Behold the companion guide to an <b>ongoing seminar series</b> on Igor Mel'čuk and Lidija Iordanskaja's (almost) 2 centuries' worth of linguistic work and love for Russian poetry.</h3>
@@ -22,7 +22,7 @@
             <div class="row">
               <!-- about -->
               <div class="col-md-6">
-                  <div class="about" style="background-color: #8f9e9e; border: 3px solid #925b3b;">
+                  <div class="about" style="background-color: #8f9e9e; border: 1px solid #925b3b;">
                       <i class="fa fa-calendar-o" style="color:#e8dabb"></i>
                       <h3 style="color:#27252d">We’re Back!</h3>
                       <p style="color:#27252d">Initiated during the 2020 pandemic, my grandparents' virtual seminars are now resuming where they left off in 2021. The bi-weekly lectures will alternate between discussions on Russian poets and topics in linguistics. For those of you who do not know Igor, he is unbelievably eager to impart his decades’ worth of knowledge to you.</p>
@@ -58,8 +58,7 @@
                     </div>
                     <div class='card-text' style="text-align: left;">
                       <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-default" style="text-align: left; display: block; color:#895151;">
-                        {{ post.custom_date }}<br>
-                        {{ post.time }}<br>
+                        {{ post.custom_date }},<i>{{ post.time }}</i><br>
                         <b>{{ post.title }}</b><br>
                         <i>{{ post.subtitle }}</i><br>
                       </a>
@@ -86,7 +85,7 @@
                     </div>
                     <div class='card-text' style="text-align: left;">
                       <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-default" style="text-align: left; display: block; color:#895151;">
-                        {{ post.date | date: "%-d %B %Y" }}<br>
+                        {{ post.date | date: "%-d %B %Y" }},<i>{{ post.time }}</i><br><br>
                         <b>{{ post.title }}</b><br>
                         <i>{{ post.subtitle }}</i><br>
                       </a>

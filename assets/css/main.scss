@@ -93,8 +93,8 @@ details[open] {
 .card-top, .card-right, .card-bottom, .card-left {
   display: flex;
   flex-wrap: nowrap;
-  height: 100px;
-  width: 70%;
+  height: 90px;
+  width: 90%;
   border-radius: $cornerRadius;
   box-shadow: 0px 3px 9px 1px rgba(0, 10, 20, 0.2);
   margin-top: 10px;
@@ -144,7 +144,7 @@ details[open] {
 
 .card-left .card-image, .card-right .card-image {
   height: 100%;
-  width: 40%;
+  width: 35%;
 }
 
 .card-image img {

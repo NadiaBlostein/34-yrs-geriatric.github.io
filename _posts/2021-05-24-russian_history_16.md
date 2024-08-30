@@ -1,7 +1,7 @@
 ---
 layout: post
 past: true
-time: "20:00:00 EST"
+time: "20:00 EST"
 title:  "Russian History 16"
 subtitle: "Military Campaigns of the 19th Century: From the Caucasus to Crimea"
 categories: [ history ]
