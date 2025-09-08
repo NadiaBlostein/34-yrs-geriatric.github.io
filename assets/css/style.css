@@ -424,13 +424,6 @@ overflow: hidden;
   max-width: 600px; /* optional: set a max size */
 }
 
-.about {
-  background-color: #8f9e9e;
-  border: 3px solid #925b3b;
-  padding: 3px;   /* reduced padding */
-  text-align: center;  /* centers icon + text */
-}
-
  @media only screen and (min-width: 768px) {
     .main-nav li {
         padding: 0px 15px;
