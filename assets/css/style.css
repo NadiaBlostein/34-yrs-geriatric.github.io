@@ -421,7 +421,7 @@ overflow: hidden;
   display: block;
   margin-bottom: 10px; /* optional spacing */
   width: 100%; /* optional: makes them stretch full container width */
-  max-width: 500px; /* optional: set a max size */
+  max-width: 600px; /* optional: set a max size */
 }
 
 .about {

@@ -1,47 +1,27 @@
 [
       {
-            "image": "01",
+            "image": "carou-01",
             "label": "",
             "color": "#7b8581"
       },
       {
-            "image": "02",
+            "image": "carou-02",
             "label": "",
             "color": "#925b3b"
       },
       {
-            "image": "03",
-            "label": "Есенин",
+            "image": "carou-03",
+            "label": "carou-04",
             "color": "#7b8581"
       },
       {
-            "image": "04",
+            "image": "carou-05",
             "label": "Грибоедов",
             "color": "#925b3b"
       },
       {
-            "image": "05",
+            "image": "carou-06",
             "label": "Крыловv",
             "color": "#7b8581"
-      },
-      {
-            "image": "06",
-            "label": "Мандельштам",
-            "color": "#925b3b"
-      },
-      {
-            "image": "07",
-            "label": "Пушкин",
-            "color": "#7b8581"
-      },
-      {
-            "image": "08",
-            "label": "Цветаева",
-            "color": "#7b8581"
-      },
-      {
-            "image": "09",
-            "label": "Заболоцкий",
-            "color": "#925b3b"
       }
 ]
