@@ -1,10 +1,10 @@
 # Site
-name: "Igor & Lida's Chronicles"
-description: "Ongoing seminar series on my grandparents' life's work and love for poetry."
-meta_description: "Igor & Lida's Chronicles"
+name: "34 Yrs Geriatric"
+description: "Happy Birthday to My Precious Sevgilim"
+meta_description: "34 Yrs Geriatric"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/icon.png'
-baseurl: 'https://igor-lida-chronicles.github.io'
+baseurl: 'https://34-yrs-geriatric.github.io/'
 google_analytics: 'UA-116897577-1'
 disqus: 'igor-lida-chronicles'
 
