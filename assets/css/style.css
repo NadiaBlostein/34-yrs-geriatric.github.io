@@ -417,12 +417,19 @@ overflow: hidden;
 
  }
 
+.image-gallery img {
+  display: block;
+  margin-bottom: 10px; /* optional spacing */
+  width: 100%; /* optional: makes them stretch full container width */
+  max-width: 500px; /* optional: set a max size */
+}
 
-
-
-
-
-
+.about {
+  background-color: #8f9e9e;
+  border: 3px solid #925b3b;
+  padding: 10px;   /* reduced padding */
+  text-align: center;  /* centers icon + text */
+}
 
  @media only screen and (min-width: 768px) {
     .main-nav li {
