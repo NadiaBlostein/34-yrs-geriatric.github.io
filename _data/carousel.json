@@ -1,27 +1,32 @@
 [
       {
             "image": "carou-01",
-            "label": "",
+            "label": "Karpuz SZN!",
             "color": "#7b8581"
       },
       {
             "image": "carou-02",
-            "label": "",
+            "label": "I <3 SUBWAY",
             "color": "#925b3b"
       },
       {
             "image": "carou-03",
-            "label": "carou-04",
+            "label": "Midori Sour",
             "color": "#7b8581"
       },
       {
-            "image": "carou-05",
-            "label": "Грибоедов",
+            "image": "carou-04",
+            "label": "PIZZA PARTY",
             "color": "#925b3b"
       },
       {
+            "image": "carou-05",
+            "label": "Cookie Monster",
+            "color": "#7b8581"
+      },
+      {
             "image": "carou-06",
-            "label": "Крыловv",
+            "label": "Burnout",
             "color": "#7b8581"
       }
 ]

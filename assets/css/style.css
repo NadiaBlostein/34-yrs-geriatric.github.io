@@ -427,7 +427,7 @@ overflow: hidden;
 .about {
   background-color: #8f9e9e;
   border: 3px solid #925b3b;
-  padding: 10px;   /* reduced padding */
+  padding: 3px;   /* reduced padding */
   text-align: center;  /* centers icon + text */
 }
 
